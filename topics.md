@@ -104,12 +104,14 @@
 
 ## awesome 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [jie65535/awesome-balatro](https://github.com/jie65535/awesome-balatro) - A list of Balatro Mods and Tools
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 
 ## awesome-list 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 
@@ -288,12 +290,12 @@
 ## go 
 
 - [rjkroege/edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 
 ## golang 
 
 - [rjkroege/edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 
 ## hacktoberfest 
 
@@ -419,7 +421,7 @@
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
@@ -440,6 +442,8 @@
 
 ## others 
 
+- [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
+- [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
 - [p-rosit/irc](https://github.com/p-rosit/irc) - Zig intrusive reference counted slice
 - [marijnfs/gitfuse](https://github.com/marijnfs/gitfuse) - Mount a Git repository as a FUSE filesystem; written in Zig
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
