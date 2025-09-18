@@ -158,6 +158,7 @@
 
 ## Lua 
 
+- [jpe90/clp](https://github.com/jpe90/clp) - writes input files to stdout with syntax highlighting
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -261,6 +262,7 @@
 
 ## Python 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [debuggyo/Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell for Niri and Hyprland created with Ignis.
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
@@ -293,6 +295,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
