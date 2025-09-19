@@ -428,6 +428,7 @@
 
 ## neovim 
 
+- [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -466,6 +467,7 @@
 
 ## others 
 
+- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [jpe90/clp](https://github.com/jpe90/clp) - writes input files to stdout with syntax highlighting
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
@@ -794,6 +796,7 @@
 
 ## vim 
 
+- [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
