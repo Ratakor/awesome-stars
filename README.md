@@ -241,6 +241,7 @@
 
 ## Others 
 
+- [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [celenityy/ublock-origin-settings](https://github.com/celenityy/ublock-origin-settings) - My recommendations for the ultimate configuration of uBlock Origin :)
@@ -295,6 +296,7 @@
 
 ## Rust 
 
+- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
