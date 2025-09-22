@@ -296,6 +296,8 @@
 
 ## Rust 
 
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
+- [AMNatty/wleave](https://github.com/AMNatty/wleave) - A Wayland-native logout script written in GTK4
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [maxbrunet/automatic-timezoned](https://github.com/maxbrunet/automatic-timezoned) - A Linux daemon to automatically update the system timezone based on location
