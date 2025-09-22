@@ -74,6 +74,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -478,6 +479,7 @@
 
 ## others 
 
+- [AMNatty/wleave](https://github.com/AMNatty/wleave) - A Wayland-native logout script written in GTK4
 - [maxbrunet/automatic-timezoned](https://github.com/maxbrunet/automatic-timezoned) - A Linux daemon to automatically update the system timezone based on location
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [jpe90/clp](https://github.com/jpe90/clp) - writes input files to stdout with syntax highlighting
@@ -683,6 +685,11 @@
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [dreamportdev/Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes) - A book that explore how to write an Operating System from scratch
 
+## programming-language 
+
+- [Vexu/toy-lang](https://github.com/Vexu/toy-lang) - Toy language for experimentation and fun.
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+
 ## python 
 
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) - A hackable shell for Hyprland, powered by Fabric.
@@ -721,6 +728,7 @@
 
 ## rust 
 
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -783,6 +791,7 @@
 
 ## terminal 
 
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
