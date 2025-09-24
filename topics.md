@@ -147,6 +147,7 @@
 
 ## c 
 
+- [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [water-sucks/zignix](https://github.com/water-sucks/zignix) - [mirror] - zig bindings to nix c api
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
@@ -328,7 +329,6 @@
 
 - [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing many Pokémon sprites
@@ -472,6 +472,7 @@
 
 ## operating-system 
 
+- [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 
 ## osint 
@@ -480,6 +481,7 @@
 
 ## others 
 
+- [thomascrha/resume](https://github.com/thomascrha/resume) - Anyone's personal resume pipeline; edit one markdown file and produce a release with a PDF and docx and publish the resulting HTML as a GitHub Page - powered by GitHub Actions.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [mrnossiom/wakatime-ls](https://github.com/mrnossiom/wakatime-ls) - A dead-simple language server around wakatime-cli to send code tracking heartbeats
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
