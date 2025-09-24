@@ -46,6 +46,7 @@
 
 ## C 
 
+- [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [MyNameIsTrez/grug](https://github.com/MyNameIsTrez/grug) - The perfect modding language.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
@@ -110,6 +111,7 @@
 
 ## CSS 
 
+- [thomascrha/resume](https://github.com/thomascrha/resume) - Anyone's personal resume pipeline; edit one markdown file and produce a release with a PDF and docx and publish the resulting HTML as a GitHub Page - powered by GitHub Actions.
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 
 ## Common Lisp 
