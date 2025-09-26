@@ -14,6 +14,7 @@
 - [Common Lisp](#common-lisp)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
@@ -135,6 +136,10 @@
 ## HTML 
 
 - [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.
+
+## Haskell 
+
+- [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## JavaScript 
 
