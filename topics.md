@@ -44,6 +44,7 @@
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [html](#html)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -336,6 +337,10 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
+## haskell 
+
+- [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
+
 ## html 
 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -362,6 +367,7 @@
 
 ## json 
 
+- [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
 ## language 
