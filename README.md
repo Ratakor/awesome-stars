@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [zakk4223/hyprRiver](https://github.com/zakk4223/hyprRiver) - River layouts for Hyprland
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -304,6 +305,7 @@
 
 ## Rust 
 
+- [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
 - [mrnossiom/wakatime-ls](https://github.com/mrnossiom/wakatime-ls) - A dead-simple language server around wakatime-cli to send code tracking heartbeats
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
