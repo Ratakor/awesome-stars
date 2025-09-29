@@ -548,7 +548,7 @@
 - [outfoxxed/impurity.nix](https://github.com/outfoxxed/impurity.nix) - Impure symlinking in your nixos configuration
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
