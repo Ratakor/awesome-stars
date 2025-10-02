@@ -386,6 +386,7 @@
 
 ## TypeScript 
 
+- [matiix310/intra-tweaker](https://github.com/matiix310/intra-tweaker) - A set of tools to make the intra better
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking
 - [mon/0x40-web](https://github.com/mon/0x40-web) - Pretty images and colours
