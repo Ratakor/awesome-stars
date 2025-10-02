@@ -501,6 +501,7 @@
 
 ## others 
 
+- [matiix310/intra-tweaker](https://github.com/matiix310/intra-tweaker) - A set of tools to make the intra better
 - [jmbaur/mixos](https://github.com/jmbaur/mixos) - MixOS, a Minimal Nix OS
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
 - [zakk4223/hyprRiver](https://github.com/zakk4223/hyprRiver) - River layouts for Hyprland
