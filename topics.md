@@ -252,6 +252,7 @@
 
 ## dotfiles 
 
+- [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
@@ -344,7 +345,6 @@
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing many Pokémon sprites
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## haskell 
@@ -401,6 +401,7 @@
 
 ## linux 
 
+- [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)
