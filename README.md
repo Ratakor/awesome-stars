@@ -47,6 +47,7 @@
 
 ## C 
 
+- [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [MyNameIsTrez/grug](https://github.com/MyNameIsTrez/grug) - The perfect modding language.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
