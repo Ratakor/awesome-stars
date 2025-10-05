@@ -122,6 +122,7 @@
 
 ## awesome 
 
+- [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [jie65535/awesome-balatro](https://github.com/jie65535/awesome-balatro) - A list of Balatro Mods and Tools
@@ -129,6 +130,7 @@
 
 ## awesome-list 
 
+- [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
@@ -339,6 +341,7 @@
 
 ## hacktoberfest 
 
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
@@ -493,6 +496,7 @@
 
 ## operating-system 
 
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 
@@ -502,6 +506,7 @@
 
 ## others 
 
+- [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [matiix310/intra-tweaker](https://github.com/matiix310/intra-tweaker) - A set of tools to make the intra better
 - [jmbaur/mixos](https://github.com/jmbaur/mixos) - MixOS, a Minimal Nix OS
@@ -538,7 +543,7 @@
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
 - [viperML/noshell](https://github.com/viperML/noshell) - User-configurable login shell
 - [NotAShelf/stash](https://github.com/NotAShelf/stash) - Wayland clipboard "manager" with fast persistent history and multi-media support
-- [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from forgejo)
+- [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
 - [ciathefed/fehler](https://github.com/ciathefed/fehler) - A comprehensive error reporting system for Zig
 - [ciathefed/sizeify](https://github.com/ciathefed/sizeify) - Format byte sizes into human-readable strings in Zig. Supports SI, IEC, and Windows-style units with no dependencies.
@@ -599,7 +604,7 @@
 - [notextify/Jokerify](https://github.com/notextify/Jokerify) - 
 - [wowsims/sod](https://github.com/wowsims/sod) - World of Warcraft Classic Season of Discovery simulations.
 - [67au/OrnaCodexCrawler](https://github.com/67au/OrnaCodexCrawler) - 
-- [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - Scripts from statusbar, videos, and more
+- [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - a variety of scripts
 - [uint23/sxwm](https://github.com/uint23/sxwm) - tiling window managers dont have to be difficult
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [eusi/Examiner-SoD-](https://github.com/eusi/Examiner-SoD-) - Fan update for WoW Classic SoD
@@ -762,6 +767,7 @@
 
 ## rust 
 
+- [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Judo - Multi-database TUI for ToDo lists
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
