@@ -147,6 +147,7 @@
 
 ## JavaScript 
 
+- [j-c-m/xkcd-password-generator](https://github.com/j-c-m/xkcd-password-generator) - An xkcd inspired password generator
 - [divestedcg/Brace](https://github.com/divestedcg/Brace) - Toolkit compatible with multiple Linux distros that allows for installation of handpicked applications, along with corresponding configs that have been tuned for reasonable privacy and security.
 - [celenityy/Dove](https://github.com/celenityy/Dove) - Dove is a suite of configurations & advanced modifications for Mozilla Thunderbird, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
@@ -310,6 +311,7 @@
 
 ## Rust 
 
+- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
 - [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Judo - Multi-database TUI for ToDo lists
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
@@ -412,6 +414,7 @@
 
 ## Zig 
 
+- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written zig
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [p-rosit/irc](https://github.com/p-rosit/irc) - Zig intrusive reference counted slice
 - [marijnfs/gitfuse](https://github.com/marijnfs/gitfuse) - Mount a Git repository as a FUSE filesystem; written in Zig
