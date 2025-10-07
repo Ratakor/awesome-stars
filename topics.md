@@ -529,7 +529,7 @@
 - [p-rosit/irc](https://github.com/p-rosit/irc) - Zig intrusive reference counted slice
 - [marijnfs/gitfuse](https://github.com/marijnfs/gitfuse) - Mount a Git repository as a FUSE filesystem; written in Zig
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
-- [MyNameIsTrez/grug](https://github.com/MyNameIsTrez/grug) - The perfect modding language.
+- [grug-lang/grug](https://github.com/grug-lang/grug) - The perfect modding language.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
@@ -608,7 +608,7 @@
 - [wowsims/sod](https://github.com/wowsims/sod) - World of Warcraft Classic Season of Discovery simulations.
 - [67au/OrnaCodexCrawler](https://github.com/67au/OrnaCodexCrawler) - 
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - a variety of scripts
-- [uint23/sxwm](https://github.com/uint23/sxwm) - tiling window managers dont have to be difficult
+- [uint23/sxwm](https://github.com/uint23/sxwm) - simple feature-rich dynamic tiling window manager
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [eusi/Examiner-SoD-](https://github.com/eusi/Examiner-SoD-) - Fan update for WoW Classic SoD
 - [cdrg/poe2filtertts](https://github.com/cdrg/poe2filtertts) - Text-To-Speech sound file packs for Path of Exile 2 item filters, multiple voice options
