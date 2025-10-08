@@ -404,6 +404,7 @@
 
 ## linux 
 
+- [diinki/linux-retroism](https://github.com/diinki/linux-retroism) - A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
@@ -607,7 +608,7 @@
 - [notextify/Jokerify](https://github.com/notextify/Jokerify) - 
 - [wowsims/sod](https://github.com/wowsims/sod) - World of Warcraft Classic Season of Discovery simulations.
 - [67au/OrnaCodexCrawler](https://github.com/67au/OrnaCodexCrawler) - 
-- [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - a variety of scripts
+- [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [uint23/sxwm](https://github.com/uint23/sxwm) - simple feature-rich dynamic tiling window manager
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [eusi/Examiner-SoD-](https://github.com/eusi/Examiner-SoD-) - Fan update for WoW Classic SoD
