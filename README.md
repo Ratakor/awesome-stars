@@ -47,6 +47,7 @@
 
 ## C 
 
+- [mk5med/c-ics](https://github.com/mk5med/c-ics) - An rfc5545 compliant parser in C
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [grug-lang/grug](https://github.com/grug-lang/grug) - The perfect modding language.
@@ -312,6 +313,7 @@
 
 ## Rust 
 
+- [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
 - [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Judo - Multi-database TUI for ToDo lists
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
