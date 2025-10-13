@@ -181,6 +181,7 @@
 
 ## cli 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -507,6 +508,8 @@
 
 ## others 
 
+- [your-editor/yed](https://github.com/your-editor/yed) - Your Editor
+- [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [mk5med/c-ics](https://github.com/mk5med/c-ics) - An rfc5545 compliant parser in C
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
@@ -773,6 +776,7 @@
 
 ## rust 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Judo - Multi-database TUI for ToDo lists
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
@@ -838,6 +842,8 @@
 
 ## terminal 
 
+- [Gskartwii/teehee](https://github.com/Gskartwii/teehee) - A modal terminal hex editor
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -872,6 +878,7 @@
 
 ## vim 
 
+- [Gskartwii/teehee](https://github.com/Gskartwii/teehee) - A modal terminal hex editor
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
