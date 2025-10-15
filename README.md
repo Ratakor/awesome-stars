@@ -314,6 +314,9 @@
 
 ## Rust 
 
+- [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
+- [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
+- [GGist/bip-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
 - [Gskartwii/teehee](https://github.com/Gskartwii/teehee) - A modal terminal hex editor
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
