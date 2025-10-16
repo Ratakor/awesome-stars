@@ -207,6 +207,7 @@
 
 ## Nix 
 
+- [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
 - [jmbaur/mixos](https://github.com/jmbaur/mixos) - MixOS, a Minimal Nix OS
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [RGBCube/ncc](https://github.com/RGBCube/ncc) - RGBCube's Config Collection.
@@ -280,6 +281,7 @@
 
 ## Python 
 
+- [asungy/helix-jupyter-thing](https://github.com/asungy/helix-jupyter-thing) - A thing to help the Helix text editor connect to a Jupyter kernel.
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -375,6 +377,7 @@
 
 ## Shell 
 
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
