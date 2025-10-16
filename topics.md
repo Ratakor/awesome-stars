@@ -512,6 +512,8 @@
 
 ## others 
 
+- [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
+- [asungy/helix-jupyter-thing](https://github.com/asungy/helix-jupyter-thing) - A thing to help the Helix text editor connect to a Jupyter kernel.
 - [GGist/bip-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
 - [your-editor/yed](https://github.com/your-editor/yed) - Your Editor
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
@@ -546,7 +548,6 @@
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [RGBCube/ncc](https://github.com/RGBCube/ncc) - RGBCube's Config Collection.
-- [debuggyo/Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell for Niri and Hyprland created with Ignis.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [Rubo3/wio](https://github.com/Rubo3/wio) - Wayland compositor similar to Plan 9's rio (mirror)
 - [Rexcrazy804/hjem-impure](https://github.com/Rexcrazy804/hjem-impure) - A trivial solution to your nix dots woes
@@ -749,6 +750,7 @@
 ## python 
 
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
+- [debuggyo/Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell for Niri and Hyprland created with Ignis.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) - A hackable shell for Hyprland, powered by Fabric.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -832,6 +834,7 @@
 
 ## shell 
 
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
