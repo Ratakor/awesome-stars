@@ -155,6 +155,7 @@
 
 ## c 
 
+- [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [water-sucks/zignix](https://github.com/water-sucks/zignix) - [mirror] - zig bindings to nix c api
@@ -183,6 +184,7 @@
 
 ## cli 
 
+- [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
@@ -512,6 +514,7 @@
 
 ## others 
 
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
 - [asungy/helix-jupyter-thing](https://github.com/asungy/helix-jupyter-thing) - A thing to help the Helix text editor connect to a Jupyter kernel.
 - [GGist/bip-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
@@ -834,6 +837,7 @@
 
 ## shell 
 
+- [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
@@ -926,6 +930,7 @@
 
 ## zig 
 
+- [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks.
 - [xor-bits/hiillos](https://github.com/xor-bits/hiillos) - operating system and its own microkernel in pure Zig
