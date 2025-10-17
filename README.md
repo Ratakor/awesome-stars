@@ -47,6 +47,7 @@
 
 ## C 
 
+- [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [your-editor/yed](https://github.com/your-editor/yed) - Your Editor
 - [mk5med/c-ics](https://github.com/mk5med/c-ics) - An rfc5545 compliant parser in C
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
@@ -316,6 +317,7 @@
 
 ## Rust 
 
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
 - [GGist/bip-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
@@ -427,6 +429,7 @@
 
 ## Zig 
 
+- [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
 - [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written zig
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [p-rosit/irc](https://github.com/p-rosit/irc) - Zig intrusive reference counted slice
