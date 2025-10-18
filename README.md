@@ -47,6 +47,7 @@
 
 ## C 
 
+- [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [your-editor/yed](https://github.com/your-editor/yed) - Your Editor
 - [mk5med/c-ics](https://github.com/mk5med/c-ics) - An rfc5545 compliant parser in C
