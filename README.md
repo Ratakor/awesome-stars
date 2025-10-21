@@ -15,6 +15,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
@@ -149,6 +150,10 @@
 ## Haskell 
 
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
+
+## Java 
+
+- [sammychien/Concurrent-SkipList](https://github.com/sammychien/Concurrent-SkipList) - 
 
 ## JavaScript 
 
