@@ -517,6 +517,7 @@
 
 ## others 
 
+- [sammychien/Concurrent-SkipList](https://github.com/sammychien/Concurrent-SkipList) - 
 - [sackosoft/zig-skiplist](https://github.com/sackosoft/zig-skiplist) - An implementation of the Skiplist data structure in Zig.
 - [GoodBoyNeon/sprofile](https://github.com/GoodBoyNeon/sprofile) - ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
