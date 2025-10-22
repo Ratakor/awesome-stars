@@ -40,7 +40,9 @@
 - [game-development](#game-development)
 - [gamedev](#gamedev)
 - [gaming](#gaming)
+- [gh-extension](#gh-extension)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [hacking](#hacking)
@@ -185,6 +187,7 @@
 
 ## cli 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -209,7 +212,7 @@
 
 ## coding 
 
-- [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A strudel.cc Neovim based controller, live coding using Strudel from Neovim.
+- [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
 
 ## compiler 
 
@@ -326,19 +329,29 @@
 
 - [Michael-Sebero/Algiz-Linux](https://github.com/Michael-Sebero/Algiz-Linux) - Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux.
 
+## gh-extension 
+
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+
 ## git 
 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 
+## github 
+
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+
 ## go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [rjkroege/edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 
 ## golang 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [rjkroege/edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 
@@ -486,7 +499,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
-- [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A strudel.cc Neovim based controller, live coding using Strudel from Neovim.
+- [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
@@ -869,6 +882,7 @@
 
 ## terminal 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Gskartwii/teehee](https://github.com/Gskartwii/teehee) - A modal terminal hex editor
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
