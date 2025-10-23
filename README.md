@@ -48,6 +48,7 @@
 
 ## C 
 
+- [struct/isoalloc](https://github.com/struct/isoalloc) - A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance
 - [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [your-editor/yed](https://github.com/your-editor/yed) - Your Editor
