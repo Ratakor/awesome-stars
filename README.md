@@ -48,6 +48,7 @@
 
 ## C 
 
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [struct/isoalloc](https://github.com/struct/isoalloc) - A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance
 - [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
@@ -182,6 +183,7 @@
 
 ## Lua 
 
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [jpe90/clp](https://github.com/jpe90/clp) - writes input files to stdout with syntax highlighting
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -267,6 +269,7 @@
 
 ## Others 
 
+- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -325,6 +328,7 @@
 
 ## Rust 
 
+- [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [GoodBoyNeon/sprofile](https://github.com/GoodBoyNeon/sprofile) - ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
