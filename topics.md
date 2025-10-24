@@ -341,6 +341,7 @@
 
 ## github 
 
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## go 
@@ -361,6 +362,7 @@
 
 ## hacktoberfest 
 
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [CrociDB/bulletty](https://github.com/CrociDB/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -530,6 +532,8 @@
 
 ## others 
 
+- [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [sammychien/Concurrent-SkipList](https://github.com/sammychien/Concurrent-SkipList) - 
 - [sackosoft/zig-skiplist](https://github.com/sackosoft/zig-skiplist) - An implementation of the Skiplist data structure in Zig.
 - [GoodBoyNeon/sprofile](https://github.com/GoodBoyNeon/sprofile) - ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
@@ -810,6 +814,7 @@
 
 ## rust 
 
+- [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
@@ -840,6 +845,7 @@
 
 ## security 
 
+- [struct/isoalloc](https://github.com/struct/isoalloc) - A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [celenityy/Dove](https://github.com/celenityy/Dove) - Dove is a suite of configurations & advanced modifications for Mozilla Thunderbird, designed to put the user first - with a focus on privacy, security, freedom, & usability.
