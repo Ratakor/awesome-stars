@@ -292,6 +292,7 @@
 
 ## emacs 
 
+- [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## embedded 
@@ -930,6 +931,7 @@
 
 ## vim 
 
+- [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [Gskartwii/teehee](https://github.com/Gskartwii/teehee) - A modal terminal hex editor
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
