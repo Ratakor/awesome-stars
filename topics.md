@@ -338,6 +338,7 @@
 
 ## git 
 
+- [9999years/git-prole](https://github.com/9999years/git-prole) - A git-worktree(1) manager
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
