@@ -515,6 +515,7 @@
 
 ## others 
 
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [thomasschafer/scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace Helix plugin
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
