@@ -193,7 +193,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with zig.
+- [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [fjebaker/nkt](https://github.com/fjebaker/nkt) - Terminal note taking. Moved to sourcehut.
 - [Hejsil/dipm](https://github.com/Hejsil/dipm) - An alternative to `curl | sh`
 - [prajwalch/yazap](https://github.com/prajwalch/yazap) - 🔧 The ultimate Zig library for seamless command line argument parsing.
@@ -515,6 +515,7 @@
 
 ## others 
 
+- [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [thomasschafer/scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace Helix plugin
@@ -798,6 +799,7 @@
 
 ## rust 
 
+- [codebycruz/constime](https://github.com/codebycruz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -951,7 +953,7 @@
 - [xor-bits/hiillos](https://github.com/xor-bits/hiillos) - operating system and its own microkernel in pure Zig
 - [water-sucks/zignix](https://github.com/water-sucks/zignix) - [mirror] - zig bindings to nix c api
 - [RossComputerGuy/ziptools](https://github.com/RossComputerGuy/ziptools) - Modern zip & unzip replacements
-- [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with zig.
+- [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
 - [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
