@@ -181,6 +181,7 @@
 
 ## cli 
 
+- [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -804,6 +805,7 @@
 
 ## rust 
 
+- [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [codebycruz/constime](https://github.com/codebycruz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
