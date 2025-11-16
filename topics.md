@@ -518,6 +518,7 @@
 
 ## others 
 
+- [celesteornato/dotfiles](https://github.com/celesteornato/dotfiles) - personal dotfiles
 - [Pranshu258/emacsdoctor](https://github.com/Pranshu258/emacsdoctor) - This is an enhanced version of the emacs doctor chatbot
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
