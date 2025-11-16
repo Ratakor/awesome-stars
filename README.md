@@ -126,6 +126,7 @@
 
 ## CSS 
 
+- [celesteornato/dotfiles](https://github.com/celesteornato/dotfiles) - personal dotfiles
 - [diinki/linux-retroism](https://github.com/diinki/linux-retroism) - A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.
 - [thomascrha/resume](https://github.com/thomascrha/resume) - Anyone's personal resume pipeline; edit one markdown file and produce a release with a PDF and docx and publish the resulting HTML as a GitHub Page - powered by GitHub Actions.
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
