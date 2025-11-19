@@ -80,6 +80,7 @@
 - [qt](#qt)
 - [r](#r)
 - [react](#react)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [scala](#scala)
@@ -103,6 +104,7 @@
 
 ## android 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [celenityy/better-cromite](https://github.com/celenityy/better-cromite) - My recommendations for the ultimate configuration of the Cromite Browser :)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
@@ -422,6 +424,7 @@
 
 ## linux 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [diinki/linux-retroism](https://github.com/diinki/linux-retroism) - A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
@@ -800,6 +803,10 @@
 ## react 
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+
+## reverse-engineering 
+
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 
 ## ruby 
 
