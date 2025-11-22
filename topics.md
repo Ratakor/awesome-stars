@@ -528,6 +528,7 @@
 
 ## others 
 
+- [kinale/awesome-linux-cpu-schedulers](https://github.com/kinale/awesome-linux-cpu-schedulers) - A curated list of CPU Schedulers for linux
 - [celesteornato/dotfiles](https://github.com/celesteornato/dotfiles) - personal dotfiles
 - [Pranshu258/emacsdoctor](https://github.com/Pranshu258/emacsdoctor) - This is an enhanced version of the emacs doctor chatbot
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
@@ -652,7 +653,7 @@
 - [wowsims/sod](https://github.com/wowsims/sod) - World of Warcraft Classic Season of Discovery simulations.
 - [67au/OrnaCodexCrawler](https://github.com/67au/OrnaCodexCrawler) - 
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
-- [uint23/sxwm](https://github.com/uint23/sxwm) - simple feature-rich dynamic tiling window manager
+- [uint23/sxwm](https://github.com/uint23/sxwm) - a simple feature-rich dynamic tiling window manager
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [eusi/Examiner-SoD-](https://github.com/eusi/Examiner-SoD-) - Fan update for WoW Classic SoD
 - [cdrg/poe2filtertts](https://github.com/cdrg/poe2filtertts) - Text-To-Speech sound file packs for Path of Exile 2 item filters, multiple voice options
@@ -834,7 +835,7 @@
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [codebycruz/constime](https://github.com/codebycruz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
