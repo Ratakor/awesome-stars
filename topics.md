@@ -43,6 +43,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -187,6 +188,7 @@
 
 ## cli 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -358,6 +360,10 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [rjkroege/edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
+
+## gui 
+
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 
 ## hacktoberfest 
 
@@ -829,13 +835,14 @@
 
 ## rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - A terminal based project management solution
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [codebycruz/constime](https://github.com/codebycruz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, and channel/stream data flows.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream data flows.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
@@ -909,6 +916,7 @@
 
 ## terminal 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - A terminal based project management solution
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
