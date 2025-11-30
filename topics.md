@@ -545,6 +545,7 @@
 
 ## others 
 
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
