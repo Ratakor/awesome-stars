@@ -49,6 +49,7 @@
 
 ## C 
 
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
@@ -168,6 +169,7 @@
 
 ## Haskell 
 
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## Java 
@@ -346,6 +348,8 @@
 
 ## Rust 
 
+- [mrnossiom/compiler-learning](https://github.com/mrnossiom/compiler-learning) - 
+- [myrrlyn/tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
