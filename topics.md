@@ -546,6 +546,8 @@
 
 ## others 
 
+- [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [mrnossiom/compiler-learning](https://github.com/mrnossiom/compiler-learning) - 
 - [myrrlyn/tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
 - [jmanc3/hyprselect](https://github.com/jmanc3/hyprselect) - A plugin that adds a completely useless desktop selection box to Hyprland
@@ -856,6 +858,7 @@
 
 ## rust 
 
+- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - A terminal based project management solution
@@ -1072,6 +1075,7 @@
 
 ## zsh 
 
+- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
