@@ -348,6 +348,9 @@
 
 ## Rust 
 
+- [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [mrnossiom/compiler-learning](https://github.com/mrnossiom/compiler-learning) - 
 - [myrrlyn/tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
@@ -430,6 +433,7 @@
 
 ## Shell 
 
+- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
