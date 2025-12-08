@@ -23,6 +23,7 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nix](#nix)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
@@ -285,8 +286,18 @@
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [NotAShelf/wallpkgs](https://github.com/NotAShelf/wallpkgs) - A repository of wallpapers to be installed via Nix.
 
+## OCaml 
+
+- [dbuenzli/bos](https://github.com/dbuenzli/bos) - Basic OS interaction for OCaml
+- [janestreet/core](https://github.com/janestreet/core) - Jane Street Capital's standard library overlay
+- [c-cube/ocaml-containers](https://github.com/c-cube/ocaml-containers) - A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license.
+- [janestreet/base](https://github.com/janestreet/base) - Standard library for OCaml
+- [odis-labs/streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions.
+- [c-cube/iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
+
 ## Others 
 
+- [Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons](https://github.com/Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons) - Core functions comparison
 - [kinale/awesome-linux-cpu-schedulers](https://github.com/kinale/awesome-linux-cpu-schedulers) - A curated list of CPU Schedulers for linux
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
 - [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
