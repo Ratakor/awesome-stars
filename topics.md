@@ -546,6 +546,13 @@
 
 ## others 
 
+- [dbuenzli/bos](https://github.com/dbuenzli/bos) - Basic OS interaction for OCaml
+- [Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons](https://github.com/Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons) - Core functions comparison
+- [janestreet/core](https://github.com/janestreet/core) - Jane Street Capital's standard library overlay
+- [c-cube/ocaml-containers](https://github.com/c-cube/ocaml-containers) - A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license.
+- [janestreet/base](https://github.com/janestreet/base) - Standard library for OCaml
+- [odis-labs/streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions.
+- [c-cube/iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
 - [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [mrnossiom/compiler-learning](https://github.com/mrnossiom/compiler-learning) - 
