@@ -546,6 +546,7 @@
 
 ## others 
 
+- [AeneasVerif/eurydice](https://github.com/AeneasVerif/eurydice) - Eurydice compiles (a decent subset of) Rust to C. Verify programs in Rust, still get C code for legacy environments.
 - [dbuenzli/bos](https://github.com/dbuenzli/bos) - Basic OS interaction for OCaml
 - [Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons](https://github.com/Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons) - Core functions comparison
 - [janestreet/core](https://github.com/janestreet/core) - Jane Street Capital's standard library overlay
