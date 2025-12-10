@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -115,6 +116,7 @@
 
 ## C++ 
 
+- [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [jmanc3/hyprselect](https://github.com/jmanc3/hyprselect) - A plugin that adds a completely useless desktop selection box to Hyprland
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
@@ -124,7 +126,6 @@
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -147,6 +148,10 @@
 - [Pranshu258/emacsdoctor](https://github.com/Pranshu258/emacsdoctor) - This is an enhanced version of the emacs doctor chatbot
 - [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 
+## F# # 
+
+- [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
+
 ## Go 
 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
@@ -167,6 +172,7 @@
 ## HTML 
 
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.
 
 ## Haskell 
@@ -289,6 +295,7 @@
 
 ## OCaml 
 
+- [dbuenzli/cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml
 - [dbuenzli/bos](https://github.com/dbuenzli/bos) - Basic OS interaction for OCaml
 - [janestreet/core](https://github.com/janestreet/core) - Jane Street Capital's standard library overlay
 - [c-cube/ocaml-containers](https://github.com/c-cube/ocaml-containers) - A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license.
@@ -360,6 +367,9 @@
 
 ## Rust 
 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
@@ -378,7 +388,7 @@
 - [9999years/git-prole](https://github.com/9999years/git-prole) - A git-worktree(1) manager
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream/futures data flow.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Simple Rust profiler with memory and async data-flow insights - quickly find and debug performance bottlenecks.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [GoodBoyNeon/sprofile](https://github.com/GoodBoyNeon/sprofile) - ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
@@ -499,6 +509,7 @@
 
 ## Zig 
 
+- [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
 - [DonIsaac/smart-pointers](https://github.com/DonIsaac/smart-pointers) - A library of smart pointers for Zig
 - [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
