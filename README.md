@@ -177,7 +177,7 @@
 
 ## Haskell 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## Java 
@@ -587,7 +587,7 @@
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
 
 ## License
