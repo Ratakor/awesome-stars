@@ -34,6 +34,7 @@
 - [embedded](#embedded)
 - [firefox](#firefox)
 - [framework](#framework)
+- [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
@@ -101,6 +102,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
+- [web-assembly](#web-assembly)
 - [windows](#windows)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -234,7 +236,7 @@
 
 ## compiler 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
 - [nlsandler/writing-a-c-compiler-tests](https://github.com/nlsandler/writing-a-c-compiler-tests) - Test cases for Writing a C Compiler
 - [Vexu/toy-lang](https://github.com/Vexu/toy-lang) - Toy language for experimentation and fun.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -321,6 +323,10 @@
 
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 
+## frontend 
+
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+
 ## game 
 
 - [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom
@@ -395,11 +401,12 @@
 
 ## haskell 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## html 
 
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
 ## image-processing 
@@ -578,7 +585,6 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [thomasschafer/scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace Helix plugin
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
@@ -821,7 +827,7 @@
 
 ## programming-language 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
 - [Vexu/toy-lang](https://github.com/Vexu/toy-lang) - Toy language for experimentation and fun.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
@@ -1037,6 +1043,10 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
+## web-assembly 
+
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+
 ## windows 
 
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
@@ -1056,6 +1066,7 @@
 
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
 - [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
 - [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
@@ -1098,7 +1109,7 @@
 - [Luukdegram/luf](https://github.com/Luukdegram/luf) - Statically typed, embeddable, scripting language written in Zig.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
 ## zsh 
 
