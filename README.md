@@ -19,6 +19,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
@@ -197,6 +198,10 @@
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+
+## Jupyter Notebook 
+
+- [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking
 
 ## Kotlin 
 
@@ -489,7 +494,6 @@
 
 - [matiix310/intra-tweaker](https://github.com/matiix310/intra-tweaker) - A set of tools to make the intra better
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
-- [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking
 - [mon/0x40-web](https://github.com/mon/0x40-web) - Pretty images and colours
 - [cayrac/slormancer-api](https://github.com/cayrac/slormancer-api) - A Slormancer api to parse saves
 
