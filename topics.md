@@ -191,7 +191,7 @@
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -884,7 +884,7 @@
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - A terminal based project management solution
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
@@ -968,7 +968,7 @@
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - A terminal based project management solution
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
