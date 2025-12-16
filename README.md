@@ -300,6 +300,7 @@
 
 ## OCaml 
 
+- [Innf107/polaris](https://github.com/Innf107/polaris) - A functional programming language with shell scripting capabilities
 - [dbuenzli/cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml
 - [dbuenzli/bos](https://github.com/dbuenzli/bos) - Basic OS interaction for OCaml
 - [janestreet/core](https://github.com/janestreet/core) - Jane Street Capital's standard library overlay
@@ -517,7 +518,7 @@
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
 - [DonIsaac/smart-pointers](https://github.com/DonIsaac/smart-pointers) - A library of smart pointers for Zig
 - [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
-- [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
+- [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts` (https://codeberg.org/mrus/whats)
 - [sackosoft/zig-skiplist](https://github.com/sackosoft/zig-skiplist) - An implementation of the Skiplist data structure in Zig.
 - [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
 - [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written zig
