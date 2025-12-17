@@ -880,6 +880,7 @@
 
 ## rust 
 
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
