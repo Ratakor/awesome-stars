@@ -150,6 +150,7 @@
 
 ## F# # 
 
+- [dmiller/clojure-clr-next](https://github.com/dmiller/clojure-clr-next) - Next generation of ClojureCLR under development.
 - [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
 
 ## Go 
@@ -295,6 +296,7 @@
 
 ## OCaml 
 
+- [ocaml-community/utop](https://github.com/ocaml-community/utop) - Universal toplevel for OCaml
 - [Innf107/polaris](https://github.com/Innf107/polaris) - A functional programming language with shell scripting capabilities
 - [dbuenzli/cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml
 - [dbuenzli/bos](https://github.com/dbuenzli/bos) - Basic OS interaction for OCaml
@@ -369,6 +371,7 @@
 
 ## Rust 
 
+- [ISibboI/evalexpr](https://github.com/ISibboI/evalexpr) - A powerful expression evaluation crate 🦀.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
