@@ -327,7 +327,7 @@
 
 ## frontend 
 
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - Full-stack web framework for Zig. HTML syntax within your Zig code, just like JSX but for Zig!
 
 ## game 
 
@@ -408,7 +408,7 @@
 
 ## html 
 
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - Full-stack web framework for Zig. HTML syntax within your Zig code, just like JSX but for Zig!
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
 ## image-processing 
@@ -685,7 +685,7 @@
 - [NotAShelf/syntax-gaslighting.nvim](https://github.com/NotAShelf/syntax-gaslighting.nvim) - Gaslighting is not even a real word, you're crazy.
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [divestedcg/Brace](https://github.com/divestedcg/Brace) - Toolkit compatible with multiple Linux distros that allows for installation of handpicked applications, along with corresponding configs that have been tuned for reasonable privacy and security.
+- [divestedcg/Brace](https://github.com/divestedcg/Brace) - Offers a wide range of opinionated settings that prioritize privacy, security, and usability for a curated set of Linux programs.
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [yuzono/aniyomi-extensions](https://github.com/yuzono/aniyomi-extensions) - Source code of extensions for Anikku / Aniyomi & forks.
@@ -1074,7 +1074,7 @@
 
 ## web-assembly 
 
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - Full-stack web framework for Zig. HTML syntax within your Zig code, just like JSX but for Zig!
 
 ## windows 
 
@@ -1095,7 +1095,7 @@
 
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - HTML syntax within your Zig code, just like JSX but for Zig!
+- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - Full-stack web framework for Zig. HTML syntax within your Zig code, just like JSX but for Zig!
 - [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts` (https://codeberg.org/mrus/whats)
 - [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
