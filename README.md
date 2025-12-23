@@ -246,6 +246,7 @@
 
 ## Nix 
 
+- [Nymphium/flake-templates](https://github.com/Nymphium/flake-templates) - Templates for Nix flake
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [RGBCube/ncc](https://github.com/RGBCube/ncc) - RGBCube's Config Collection.
