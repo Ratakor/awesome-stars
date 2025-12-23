@@ -560,6 +560,7 @@
 
 ## others 
 
+- [Nymphium/flake-templates](https://github.com/Nymphium/flake-templates) - Templates for Nix flake
 - [ocaml-community/utop](https://github.com/ocaml-community/utop) - Universal toplevel for OCaml
 - [Innf107/polaris](https://github.com/Innf107/polaris) - A functional programming language with shell scripting capabilities
 - [dbuenzli/cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml
