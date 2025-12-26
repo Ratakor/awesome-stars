@@ -562,6 +562,7 @@
 
 ## others 
 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [hyprside/shift](https://github.com/hyprside/shift) - Manages display server sessions with smooth, GPU-driven transitions — a GUI-first replacement for TTYs.
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
