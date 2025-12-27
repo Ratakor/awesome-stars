@@ -562,6 +562,7 @@
 
 ## others 
 
+- [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [hyprside/shift](https://github.com/hyprside/shift) - Manages display server sessions with smooth, GPU-driven transitions — a GUI-first replacement for TTYs.
@@ -637,7 +638,7 @@
 - [p-rosit/irc](https://github.com/p-rosit/irc) - Zig intrusive reference counted slice
 - [marijnfs/gitfuse](https://github.com/marijnfs/gitfuse) - Mount a Git repository as a FUSE filesystem; written in Zig
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
-- [grug-lang/grug](https://github.com/grug-lang/grug) - The perfect modding language.
+- [grug-lang/grug](https://github.com/grug-lang/grug) - Make your mods immortal.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
