@@ -66,7 +66,7 @@
 - [mk5med/c-ics](https://github.com/mk5med/c-ics) - An rfc5545 compliant parser in C
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
-- [grug-lang/grug](https://github.com/grug-lang/grug) - The perfect modding language.
+- [grug-lang/grug](https://github.com/grug-lang/grug) - Make your mods immortal.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [Rubo3/wio](https://github.com/Rubo3/wio) - Wayland compositor similar to Plan 9's rio (mirror)
@@ -378,6 +378,7 @@
 
 ## Rust 
 
+- [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [hyprside/shift](https://github.com/hyprside/shift) - Manages display server sessions with smooth, GPU-driven transitions — a GUI-first replacement for TTYs.
