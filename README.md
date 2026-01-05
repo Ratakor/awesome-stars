@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Lean](#lean)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -158,6 +159,7 @@
 
 ## Go 
 
+- [Kronark/Node-Compiler-Prototype](https://github.com/Kronark/Node-Compiler-Prototype) - 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
@@ -181,7 +183,6 @@
 
 ## Haskell 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  System F-ω pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## Java 
@@ -211,6 +212,10 @@
 ## LLVM 
 
 - [backengineering/llvm-msvc](https://github.com/backengineering/llvm-msvc) - LLVM fork with explicit compatibility with MSVC 2022 features.
+
+## Lean 
+
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  λC pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
 
 ## Lua 
 
@@ -378,6 +383,8 @@
 
 ## Rust 
 
+- [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
+- [buyukakyuz/rustmm](https://github.com/buyukakyuz/rustmm) - Rust without the borrow checker
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
