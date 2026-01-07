@@ -52,6 +52,7 @@
 
 ## C 
 
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [mell-o-tron/MellOs](https://github.com/mell-o-tron/MellOs) - Minimal, collaboratively written kernel
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
@@ -427,7 +428,7 @@
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
 - [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Judo - Multi-database TUI for ToDo lists
-- [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
+- [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
 - [mrnossiom/wakatime-ls](https://github.com/mrnossiom/wakatime-ls) - A dead-simple language server around wakatime-cli to send code tracking heartbeats
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
