@@ -100,6 +100,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -907,7 +908,7 @@
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - A terminal based project management solution
@@ -1061,6 +1062,12 @@
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
+
+## video 
+
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- [videolan/dav1d](https://github.com/videolan/dav1d) - A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 
 ## vim 
 
