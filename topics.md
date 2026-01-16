@@ -568,6 +568,7 @@
 
 ## others 
 
+- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [Kronark/Node-Compiler-Prototype](https://github.com/Kronark/Node-Compiler-Prototype) - 
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
