@@ -452,7 +452,7 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [NotAShelf/watt](https://github.com/NotAShelf/watt) - Modern CPU frequency and power management utility for Linux
@@ -515,6 +515,7 @@
 
 ## TypeScript 
 
+- [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [matiix310/intra-tweaker](https://github.com/matiix310/intra-tweaker) - A set of tools to make the intra better
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking
