@@ -466,7 +466,6 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [knurling-rs/defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -589,6 +588,7 @@
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
 - [tr1ckydev/chameleon](https://github.com/tr1ckydev/chameleon) - 🦎 Terminal string styling for zig.
 - [mitchellh/zig-libgc](https://github.com/mitchellh/zig-libgc) - Zig-friendly library for interfacing with libgc (bdwgc) -- the Boehm-Demers-Weiser conservative garbage collector
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [wildwestrom/viz](https://github.com/wildwestrom/viz) - A visual IDE, a bit like scratch, outputs machine code
 - [nektro/zig-tracy](https://github.com/nektro/zig-tracy) - Zig bindings for the Tracy profiler.
 - [kprotty/zap](https://github.com/kprotty/zap) - An asynchronous runtime with a focus on performance and resource efficiency.
