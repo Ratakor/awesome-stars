@@ -218,7 +218,7 @@
 
 ## Lean 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ |  λC pure functional language with deterministic, GC-free memory via Interaction Nets and automatic parallelism.
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
 
 ## Lua 
 
