@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
@@ -142,6 +143,10 @@
 - [diinki/linux-retroism](https://github.com/diinki/linux-retroism) - A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.
 - [thomascrha/resume](https://github.com/thomascrha/resume) - Anyone's personal resume pipeline; edit one markdown file and produce a release with a PDF and docx and publish the resulting HTML as a GitHub Page - powered by GitHub Actions.
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
+
+## Clojure 
+
+- [fominok/ideahelix](https://github.com/fominok/ideahelix) - Rudimentary Helix editor emulation for JetBrains' IDEs
 
 ## Common Lisp 
 
@@ -529,6 +534,7 @@
 
 ## Vim Script 
 
+- [chtenb/helix.vim](https://github.com/chtenb/helix.vim) - Emulate Helix keybindings inside Vim emulators
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
