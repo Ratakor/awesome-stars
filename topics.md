@@ -222,6 +222,7 @@
 
 ## clojure 
 
+- [fominok/ideahelix](https://github.com/fominok/ideahelix) - Rudimentary Helix editor emulation for JetBrains' IDEs
 - [dmiller/clojure-clr-next](https://github.com/dmiller/clojure-clr-next) - Next generation of ClojureCLR under development.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
@@ -1086,6 +1087,7 @@
 
 ## vim 
 
+- [chtenb/helix.vim](https://github.com/chtenb/helix.vim) - Emulate Helix keybindings inside Vim emulators
 - [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
 - [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
