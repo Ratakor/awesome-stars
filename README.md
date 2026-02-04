@@ -345,7 +345,6 @@
 - [NeverSinkDev/NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 - [cnlohr/assembly-notes](https://github.com/cnlohr/assembly-notes) - My cookbook for a guide to and notes on assembly lagnuage, inling, etc.
 - [noahvogt/chromium-patches](https://github.com/noahvogt/chromium-patches) - functional chromium patches
-- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [anars/blank-audio](https://github.com/anars/blank-audio) - Set of blank MP3 audio files
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
@@ -505,6 +504,7 @@
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [bugswriter/tuxi](https://github.com/bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [starcitizen-lug/lug-helper](https://github.com/starcitizen-lug/lug-helper) - Star Citizen's Linux Users Group Helper Script
 - [InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO) - A Gentoo Portage configuration for building with -O3, Graphite, and LTO optimizations
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
