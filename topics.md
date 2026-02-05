@@ -588,7 +588,7 @@
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [buyukakyuz/rustmm](https://github.com/buyukakyuz/rustmm) - Rust without the borrow checker
 - [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [everything-os/shift](https://github.com/everything-os/shift) - Manages display server sessions with smooth, GPU-driven transitions — a GUI-first replacement for TTYs.
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
