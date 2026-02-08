@@ -405,7 +405,7 @@
 - [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
-- [mrnossiom/compiler-learning](https://github.com/mrnossiom/compiler-learning) - 
+- [mrnossiom/kaleic](https://github.com/mrnossiom/kaleic) - 
 - [myrrlyn/tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -432,7 +432,7 @@
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
-- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
+- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Markdown preview server for AI coding agents.
 - [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Judo - Multi-database TUI for ToDo lists
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
