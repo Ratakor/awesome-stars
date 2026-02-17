@@ -583,6 +583,7 @@
 
 ## others 
 
+- [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
