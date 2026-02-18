@@ -53,6 +53,8 @@
 
 ## C 
 
+- [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
+- [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [mell-o-tron/MellOs](https://github.com/mell-o-tron/MellOs) - Minimal, collaboratively written kernel
 - [firelzrd/bore-scheduler](https://github.com/firelzrd/bore-scheduler) - BORE (Burst-Oriented Response Enhancer) CPU Scheduler
@@ -327,6 +329,7 @@
 
 ## Others 
 
+- [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
 - [Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons](https://github.com/Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons) - Core functions comparison
 - [kinale/awesome-linux-cpu-schedulers](https://github.com/kinale/awesome-linux-cpu-schedulers) - A curated list of CPU Schedulers for linux
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
