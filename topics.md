@@ -583,6 +583,9 @@
 
 ## others 
 
+- [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
+- [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
+- [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
