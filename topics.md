@@ -583,6 +583,7 @@
 
 ## others 
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
 - [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
 - [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
