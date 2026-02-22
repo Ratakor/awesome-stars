@@ -356,6 +356,7 @@
 
 ## Python 
 
+- [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [asungy/helix-jupyter-thing](https://github.com/asungy/helix-jupyter-thing) - A thing to help the Helix text editor connect to a Jupyter kernel.
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
@@ -379,6 +380,7 @@
 
 ## QML 
 
+- [Yujonpradhananga/Persona-Quickshell-](https://github.com/Yujonpradhananga/Persona-Quickshell-) - Persona 3 Reload themed Quickshell theme for Hyprland/MangoWC
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [hooss-only/dotfiles-minecraft-style](https://github.com/hooss-only/dotfiles-minecraft-style) - Fan-made minecraft style ricing dotfile
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
@@ -403,7 +405,7 @@
 - [everything-os/shift](https://github.com/everything-os/shift) - Manages display server sessions with smooth, GPU-driven transitions — a GUI-first replacement for TTYs.
 - [ISibboI/evalexpr](https://github.com/ISibboI/evalexpr) - A powerful expression evaluation crate 🦀.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
