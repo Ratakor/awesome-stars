@@ -25,6 +25,7 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [Markdown](#markdown)
+- [MiniZinc](#minizinc)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -262,6 +263,10 @@
 
 - [dreamportdev/Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes) - A book that explore how to write an Operating System from scratch
 
+## MiniZinc 
+
+- [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
+
 ## Nix 
 
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
@@ -331,6 +336,7 @@
 
 ## Others 
 
+- [hanyu1774/helixgelion](https://github.com/hanyu1774/helixgelion) - A colorscheme for the Helix code editor using colors from Evangelion
 - [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
 - [Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons](https://github.com/Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons) - Core functions comparison
 - [kinale/awesome-linux-cpu-schedulers](https://github.com/kinale/awesome-linux-cpu-schedulers) - A curated list of CPU Schedulers for linux
@@ -544,6 +550,7 @@
 
 ## Vim Script 
 
+- [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [chtenb/helix.vim](https://github.com/chtenb/helix.vim) - Emulate Helix keybindings inside Vim emulators
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
