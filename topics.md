@@ -32,7 +32,9 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [embedded](#embedded)
+- [emulator](#emulator)
 - [firefox](#firefox)
+- [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
@@ -115,6 +117,7 @@
 
 ## android 
 
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [celenityy/better-cromite](https://github.com/celenityy/better-cromite) - My recommendations for the ultimate configuration of the Cromite Browser :)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -328,9 +331,17 @@
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - MicroZig is a toolbox for building embedded applications in Zig.
 
+## emulator 
+
+- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
+
 ## firefox 
 
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
+
+## flutter 
+
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 
 ## framework 
 
@@ -469,6 +480,7 @@
 
 ## linux 
 
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
@@ -589,6 +601,7 @@
 
 ## others 
 
+- [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
 - [hanyu1774/helixgelion](https://github.com/hanyu1774/helixgelion) - A colorscheme for the Helix code editor using colors from Evangelion
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [hughcoleman/advent-of-code](https://github.com/hughcoleman/advent-of-code) - :christmas_tree:
@@ -602,7 +615,7 @@
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
-- [Kronark/Node-Compiler-Prototype](https://github.com/Kronark/Node-Compiler-Prototype) - 
+- [Kronark/Node-Compiler-Prototype-Public](https://github.com/Kronark/Node-Compiler-Prototype-Public) - 
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [buyukakyuz/rustmm](https://github.com/buyukakyuz/rustmm) - Rust without the borrow checker
 - [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
@@ -1143,6 +1156,7 @@
 
 ## windows 
 
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1158,6 +1172,7 @@
 
 ## zig 
 
+- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
 - [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
