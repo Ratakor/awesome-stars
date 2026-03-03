@@ -247,6 +247,7 @@
 
 ## compiler 
 
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
 - [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
 - [nlsandler/writing-a-c-compiler-tests](https://github.com/nlsandler/writing-a-c-compiler-tests) - Test cases for Writing a C Compiler
