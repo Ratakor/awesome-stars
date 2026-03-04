@@ -1012,6 +1012,7 @@
 
 ## server 
 
+- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [tsdko/anki-sync-server](https://github.com/tsdko/anki-sync-server) - Self-hosted Anki sync server
@@ -1148,6 +1149,7 @@
 ## web 
 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
