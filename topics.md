@@ -247,6 +247,7 @@
 
 ## compiler 
 
+- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
 - [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
@@ -350,7 +351,7 @@
 
 ## frontend 
 
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 
 ## game 
 
@@ -429,7 +430,7 @@
 
 ## html 
 
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
 ## image-processing 
@@ -448,6 +449,7 @@
 
 ## javascript 
 
+- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -1012,7 +1014,7 @@
 
 ## server 
 
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [tsdko/anki-sync-server](https://github.com/tsdko/anki-sync-server) - Self-hosted Anki sync server
@@ -1149,13 +1151,13 @@
 ## web 
 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## web-assembly 
 
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 
 ## windows 
 
@@ -1178,7 +1180,7 @@
 - [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
-- [nurulhudaapon/ziex](https://github.com/nurulhudaapon/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
 - [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts` (https://codeberg.org/mrus/whats)
 - [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
