@@ -28,6 +28,7 @@
 - [Markdown](#markdown)
 - [MiniZinc](#minizinc)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Others](#others)
 - [Perl](#perl)
@@ -324,6 +325,10 @@
 - [n8henrie/nixos-rescue](https://github.com/n8henrie/nixos-rescue) - NixOS-based USB rescue image
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [NotAShelf/wallpkgs](https://github.com/NotAShelf/wallpkgs) - A repository of wallpapers to be installed via Nix.
+
+## Nushell 
+
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 
 ## OCaml 
 
