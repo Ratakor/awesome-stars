@@ -65,6 +65,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
@@ -548,6 +549,10 @@
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
 
+## minecraft 
+
+- [d-002/cpu](https://github.com/d-002/cpu) - Utilities and files for Minecraft computers
+
 ## monitoring 
 
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -604,6 +609,7 @@
 
 ## others 
 
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
 - [hanyu1774/helixgelion](https://github.com/hanyu1774/helixgelion) - A colorscheme for the Helix code editor using colors from Evangelion
@@ -910,6 +916,7 @@
 
 ## python 
 
+- [d-002/cpu](https://github.com/d-002/cpu) - Utilities and files for Minecraft computers
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [debuggyo/Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell for Niri and Hyprland created with Ignis.
