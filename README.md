@@ -56,6 +56,7 @@
 
 ## C 
 
+- [d-002/cpu](https://github.com/d-002/cpu) - Utilities and files for Minecraft computers
 - [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
 - [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -415,6 +416,7 @@
 
 ## Rust 
 
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
