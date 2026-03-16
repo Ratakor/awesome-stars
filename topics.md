@@ -617,7 +617,7 @@
 - [hughcoleman/advent-of-code](https://github.com/hughcoleman/advent-of-code) - :christmas_tree:
 - [zxygentoo/mal-ocaml](https://github.com/zxygentoo/mal-ocaml) - Make-A-Lisp in OCaml
 - [Yujonpradhananga/Persona-Quickshell-](https://github.com/Yujonpradhananga/Persona-Quickshell-) - Persona 3 Reload themed Quickshell theme for Hyprland/MangoWC
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
 - [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
 - [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
