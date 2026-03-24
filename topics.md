@@ -776,7 +776,6 @@
 - [ArchWizardLesbian/ArchRail](https://github.com/ArchWizardLesbian/ArchRail) - A Funny little mod for a Funny little jester game :3
 - [Mil0Meg4/Resurgence](https://github.com/Mil0Meg4/Resurgence) - The vampire is in another mod!
 - [icyethics/Glue-For-Modpacks](https://github.com/icyethics/Glue-For-Modpacks) - Balatro Mod to add utilities that may make playing with many mods more enjoyable
-- [notextify/Jokerify](https://github.com/notextify/Jokerify) - 
 - [wowsims/sod](https://github.com/wowsims/sod) - World of Warcraft Classic Season of Discovery simulations.
 - [67au/OrnaCodexCrawler](https://github.com/67au/OrnaCodexCrawler) - 
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
@@ -1207,7 +1206,6 @@
 - [rockorager/zeit](https://github.com/rockorager/zeit) - a date and time library written in zig. Timezone, DST, and leap second aware
 - [tardy-org/tardy](https://github.com/tardy-org/tardy) - An asynchronous runtime for writing applications and services. Supports io_uring, epoll, kqueue, and poll for I/O.
 - [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig
-- [FObersteiner/zdt](https://github.com/FObersteiner/zdt) - Datetime, Timezones and Durations in Zig
 - [ZigEmbeddedGroup/zfat](https://github.com/ZigEmbeddedGroup/zfat) - Generic purpose platform-independent FAT driver for Zig
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - MicroZig is a toolbox for building embedded applications in Zig.
 - [kubkon/bold](https://github.com/kubkon/bold) - bold: the bold linker
