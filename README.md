@@ -56,6 +56,7 @@
 
 ## C 
 
+- [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [d-002/cpu](https://github.com/d-002/cpu) - Utilities and files for Minecraft computers
 - [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
 - [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
@@ -162,6 +163,7 @@
 
 ## Dart 
 
+- [Dacraezy1/wayclicker](https://github.com/Dacraezy1/wayclicker) - A lightweight and efficient autoclicker built specifically for Wayland compositors on Linux
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 
 ## Emacs Lisp 
@@ -375,6 +377,7 @@
 
 ## Python 
 
+- [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [hughcoleman/advent-of-code](https://github.com/hughcoleman/advent-of-code) - :christmas_tree:
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
@@ -568,7 +571,6 @@
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
-- [eemed/sitruuna.vim](https://github.com/eemed/sitruuna.vim) - Yellowish theme for vim
 - [overvale/vacme](https://github.com/overvale/vacme) - Vim colorscheme based on plan9 and acme.
 
 ## Zig 
