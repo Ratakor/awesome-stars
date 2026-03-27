@@ -199,6 +199,7 @@
 
 ## cli 
 
+- [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
@@ -381,6 +382,7 @@
 
 ## gaming 
 
+- [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [Michael-Sebero/Algiz-Linux](https://github.com/Michael-Sebero/Algiz-Linux) - Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux.
 
 ## gh-extension 
@@ -420,6 +422,7 @@
 
 ## hacktoberfest 
 
+- [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
@@ -489,6 +492,7 @@
 
 ## linux 
 
+- [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -614,6 +618,7 @@
 
 ## others 
 
+- [Dacraezy1/wayclicker](https://github.com/Dacraezy1/wayclicker) - A lightweight and efficient autoclicker built specifically for Wayland compositors on Linux
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
@@ -833,7 +838,6 @@
 - [starcitizen-lug/lug-helper](https://github.com/starcitizen-lug/lug-helper) - Star Citizen's Linux Users Group Helper Script
 - [luisbg/fs-construction-kit](https://github.com/luisbg/fs-construction-kit) - File System Construction Kit
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes
-- [eemed/sitruuna.vim](https://github.com/eemed/sitruuna.vim) - Yellowish theme for vim
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [HoloTheDrunk/aysinvi](https://github.com/HoloTheDrunk/aysinvi) - Lefngapä lì'fya
@@ -920,6 +924,7 @@
 
 ## python 
 
+- [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [d-002/cpu](https://github.com/d-002/cpu) - Utilities and files for Minecraft computers
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
