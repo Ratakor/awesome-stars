@@ -376,6 +376,7 @@
 
 ## Python 
 
+- [flozz/rivalcfg](https://github.com/flozz/rivalcfg) - CLI tool and Python library to configure SteelSeries gaming mice
 - [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [hughcoleman/advent-of-code](https://github.com/hughcoleman/advent-of-code) - :christmas_tree:
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
