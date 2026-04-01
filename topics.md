@@ -527,6 +527,7 @@
 
 ## lua 
 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -621,6 +622,7 @@
 
 ## others 
 
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue-light filter for Hyprland, Niri, and everything Wayland
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
 - [NotAShelf/mpvrc](https://github.com/NotAShelf/mpvrc) - Unofficial IPC wrapper & command-line controller for MPV, the video player
@@ -632,7 +634,7 @@
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [hughcoleman/advent-of-code](https://github.com/hughcoleman/advent-of-code) - :christmas_tree:
 - [zxygentoo/mal-ocaml](https://github.com/zxygentoo/mal-ocaml) - Make-A-Lisp in OCaml
-- [Yujonpradhananga/Persona-Quickshell-](https://github.com/Yujonpradhananga/Persona-Quickshell-) - Persona 3 Reload themed Quickshell theme for Hyprland/MangoWC
+- [Yujonpradhananga/Persona-Quickshell](https://github.com/Yujonpradhananga/Persona-Quickshell) - Persona 3 Reload themed Quickshell theme for Hyprland/MangoWC
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
 - [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
@@ -1044,6 +1046,7 @@
 
 ## shell 
 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
@@ -1064,6 +1067,7 @@
 
 ## terminal 
 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
