@@ -217,7 +217,6 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [fjebaker/nkt](https://github.com/fjebaker/nkt) - Terminal note taking. Moved to sourcehut.
@@ -395,7 +394,6 @@
 
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [9999years/git-prole](https://github.com/9999years/git-prole) - A git-worktree(1) manager
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 
@@ -752,6 +750,7 @@
 - [lonerOrz/stow-nix](https://github.com/lonerOrz/stow-nix) - stow configuration on nixos, I hope to completely replace home-manager
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [youwen5/zen-browser-flake](https://github.com/youwen5/zen-browser-flake) - Nix Flake for the Zen Browser, with automatic updates
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [vdawg-git/fantasy-rice](https://github.com/vdawg-git/fantasy-rice) - 
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
