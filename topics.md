@@ -641,6 +641,7 @@
 
 ## others 
 
+- [NotAShelf/flipoff](https://github.com/NotAShelf/flipoff) - Turn off your computer the only viable way: by flipping it off
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -829,7 +830,6 @@
 - [NeverSinkDev/NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 - [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
-- [InKryption/comath](https://github.com/InKryption/comath) - 
 - [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C
 - [foxnne/scoop-ems](https://github.com/foxnne/scoop-ems) - Scoop some dirt and find some treasure!
 - [aeronavery/zig-toml](https://github.com/aeronavery/zig-toml) - A TOML parser written in Zig
@@ -1003,6 +1003,7 @@
 
 ## rust 
 
+- [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ISibboI/evalexpr](https://github.com/ISibboI/evalexpr) - A powerful expression evaluation crate 🦀.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
