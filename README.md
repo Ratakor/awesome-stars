@@ -76,7 +76,6 @@
 - [mk5med/c-ics](https://github.com/mk5med/c-ics) - An rfc5545 compliant parser in C
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
-- [grug-lang/grug](https://github.com/grug-lang/grug) - Make your mods immortal.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [Rubo3/wio](https://github.com/Rubo3/wio) - Wayland compositor similar to Plan 9's rio (mirror)
@@ -328,6 +327,7 @@
 - [n8henrie/nixos-rescue](https://github.com/n8henrie/nixos-rescue) - NixOS-based USB rescue image
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [NotAShelf/wallpkgs](https://github.com/NotAShelf/wallpkgs) - A repository of wallpapers to be installed via Nix.
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 
 ## Nushell 
 
@@ -359,6 +359,7 @@
 - [nik-rev/awesome-tiny-crates](https://github.com/nik-rev/awesome-tiny-crates) - A bunch of small crates that make writing Rust more fun
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
+- [grug-lang/grug](https://github.com/grug-lang/grug) - Make your mods immortal.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [celenityy/ublock-origin-settings](https://github.com/celenityy/ublock-origin-settings) - My recommendations for the ultimate configuration of uBlock Origin :)
@@ -379,6 +380,7 @@
 
 ## Python 
 
+- [NotAShelf/flipoff](https://github.com/NotAShelf/flipoff) - Turn off your computer the only viable way: by flipping it off
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [flozz/rivalcfg](https://github.com/flozz/rivalcfg) - CLI tool and Python library to configure SteelSeries gaming mice
 - [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
@@ -422,6 +424,7 @@
 
 ## Rust 
 
+- [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -502,7 +505,6 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [NotAShelf/watt](https://github.com/NotAShelf/watt) - Modern CPU frequency and power management utility for Linux
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -609,7 +611,6 @@
 - [water-sucks/zignix](https://github.com/water-sucks/zignix) - [mirror] - zig bindings to nix c api
 - [RossComputerGuy/ziptools](https://github.com/RossComputerGuy/ziptools) - Modern zip & unzip replacements
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
-- [InKryption/comath](https://github.com/InKryption/comath) - 
 - [foxnne/scoop-ems](https://github.com/foxnne/scoop-ems) - Scoop some dirt and find some treasure!
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
 - [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
