@@ -649,6 +649,9 @@
 
 ## others 
 
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
+- [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
+- [y9san9/y9san9.nvim](https://github.com/y9san9/y9san9.nvim) - Sub-100 LoC nvim config intended to be used only by me
 - [mbrock/filnix](https://github.com/mbrock/filnix) - Fil-C as a Nix C/C++ toolchain and cross platform
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
