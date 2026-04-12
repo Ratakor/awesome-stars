@@ -218,6 +218,7 @@
 
 ## cli 
 
+- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [flozz/rivalcfg](https://github.com/flozz/rivalcfg) - CLI tool and Python library to configure SteelSeries gaming mice
 - [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
@@ -323,6 +324,8 @@
 
 ## dotfiles 
 
+- [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
+- [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
@@ -1018,6 +1021,7 @@
 
 ## rust 
 
+- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -1111,6 +1115,7 @@
 
 ## terminal 
 
+- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
@@ -1145,6 +1150,7 @@
 
 ## tui 
 
+- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
