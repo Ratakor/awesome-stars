@@ -556,6 +556,7 @@
 
 ## lua 
 
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -609,6 +610,7 @@
 
 ## neovim 
 
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -652,6 +654,7 @@
 
 ## others 
 
+- [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) - A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system.
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
 - [y9san9/y9san9.nvim](https://github.com/y9san9/y9san9.nvim) - Sub-100 LoC nvim config intended to be used only by me
@@ -863,7 +866,6 @@
 - [noahvogt/chromium-patches](https://github.com/noahvogt/chromium-patches) - functional chromium patches
 - [mitchellh/zig-libgc](https://github.com/mitchellh/zig-libgc) - Zig-friendly library for interfacing with libgc (bdwgc) -- the Boehm-Demers-Weiser conservative garbage collector
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [wildwestrom/viz](https://github.com/wildwestrom/viz) - A visual IDE, a bit like scratch, outputs machine code
 - [nektro/zig-tracy](https://github.com/nektro/zig-tracy) - Zig bindings for the Tracy profiler.
 - [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - A Zig coroutine library
 - [ziord/veb](https://github.com/ziord/veb) - A delightful programming language for writing reliable software
