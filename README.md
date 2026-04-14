@@ -210,6 +210,7 @@
 
 ## Java 
 
+- [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [sammychien/Concurrent-SkipList](https://github.com/sammychien/Concurrent-SkipList) - 
 
 ## JavaScript 
@@ -229,6 +230,7 @@
 
 ## Kotlin 
 
+- [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [yuzono/tachiyomi-extensions](https://github.com/yuzono/tachiyomi-extensions) - Source code of extensions for Komikku / Mihon & forks.
@@ -393,6 +395,7 @@
 
 ## Python 
 
+- [kiviktnm/decman](https://github.com/kiviktnm/decman) - Declarative package & configuration manager for Arch Linux.
 - [NotAShelf/flipoff](https://github.com/NotAShelf/flipoff) - Turn off your computer the only viable way: by flipping it off
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [flozz/rivalcfg](https://github.com/flozz/rivalcfg) - CLI tool and Python library to configure SteelSeries gaming mice
