@@ -56,6 +56,7 @@
 
 ## C 
 
+- [faetalize/waytator](https://github.com/faetalize/waytator) - 
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -278,6 +279,7 @@
 
 ## Markdown 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dreamportdev/Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes) - A book that explore how to write an Operating System from scratch
 
 ## MiniZinc 
@@ -286,6 +288,7 @@
 
 ## Nix 
 
+- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse. Sandboxing you won't notice — until you need it.
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
