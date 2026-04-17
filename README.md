@@ -56,6 +56,7 @@
 
 ## C 
 
+- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [faetalize/waytator](https://github.com/faetalize/waytator) - 
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
@@ -206,6 +207,7 @@
 
 ## Haskell 
 
+- [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
@@ -288,6 +290,11 @@
 
 ## Nix 
 
+- [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
+- [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
+- [iynaix/dotfiles](https://github.com/iynaix/dotfiles) - I use NixOS btw.
+- [toastal/nixtamal](https://github.com/toastal/nixtamal) - NOT a mirror of Nixtamal; that would undermine the purpose of the tool—which is to open up previously-unsupported fetchers & promote self-hosting. Visit the offical site to get the Darcs repository.
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse. Sandboxing you won't notice — until you need it.
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
@@ -515,7 +522,6 @@
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
-- [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [NotAShelf/stash](https://github.com/NotAShelf/stash) - Wayland clipboard "manager" with fast persistent history and multi-media support
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
