@@ -215,6 +215,7 @@
 
 ## claude-code 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 ## cli 
@@ -300,6 +301,7 @@
 
 ## developer-tools 
 
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -931,6 +933,7 @@
 
 ## package-manager 
 
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [Hejsil/dipm](https://github.com/Hejsil/dipm) - An alternative to `curl | sh`
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 
@@ -1037,6 +1040,7 @@
 
 ## rust 
 
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
@@ -1131,6 +1135,7 @@
 
 ## terminal 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
