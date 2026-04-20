@@ -666,7 +666,7 @@
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [faetalize/waytator](https://github.com/faetalize/waytator) - 
-- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse. Sandboxing you won't notice — until you need it.
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [kiviktnm/decman](https://github.com/kiviktnm/decman) - Declarative package & configuration manager for Arch Linux.
@@ -1040,6 +1040,7 @@
 
 ## rust 
 
+- [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS stages (stage1 & stage2) in safe, portable Rust
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
