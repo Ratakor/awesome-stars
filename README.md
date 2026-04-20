@@ -297,7 +297,7 @@
 - [iynaix/dotfiles](https://github.com/iynaix/dotfiles) - I use NixOS btw.
 - [toastal/nixtamal](https://github.com/toastal/nixtamal) - NOT a mirror of Nixtamal; that would undermine the purpose of the tool—which is to open up previously-unsupported fetchers & promote self-hosting. Visit the offical site to get the Darcs repository.
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
-- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse. Sandboxing you won't notice — until you need it.
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
@@ -452,6 +452,7 @@
 
 ## Rust 
 
+- [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS stages (stage1 & stage2) in safe, portable Rust
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
