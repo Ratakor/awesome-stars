@@ -291,6 +291,7 @@
 
 ## Nix 
 
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -455,7 +456,8 @@
 
 ## Rust 
 
-- [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS stages (stage1 & stage2) in safe, portable Rust
+- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
+- [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
