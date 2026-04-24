@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [privatevoid-net/nix-super](https://github.com/privatevoid-net/nix-super) - 
 - [cieslarmichal/config-cxx](https://github.com/cieslarmichal/config-cxx) - C++ Config library for managing application configuration.
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [jmanc3/hyprselect](https://github.com/jmanc3/hyprselect) - A plugin that adds a completely useless desktop selection box to Hyprland
@@ -291,6 +292,7 @@
 
 ## Nix 
 
+- [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
@@ -460,6 +462,7 @@
 
 ## Rust 
 
+- [Userwithaname/mellow](https://github.com/Userwithaname/mellow) - Distraction-free music listening
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
