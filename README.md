@@ -57,6 +57,7 @@
 
 ## C 
 
+- [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and general-purpose calculator
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [faetalize/waytator](https://github.com/faetalize/waytator) - Wayland image annotation tool
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
@@ -416,6 +417,8 @@
 
 ## Python 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [althonos/ffpb](https://github.com/althonos/ffpb) - A progress bar for ffmpeg. Yay !
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [kiviktnm/decman](https://github.com/kiviktnm/decman) - Declarative package & configuration manager for Arch Linux.
