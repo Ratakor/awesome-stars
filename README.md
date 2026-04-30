@@ -293,6 +293,7 @@
 
 ## Nix 
 
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [fricklerhandwerk/module-sources](https://github.com/fricklerhandwerk/module-sources) - Module-level source references: declare locally, pin globally
 - [fricklerhandwerk/flake-inputs](https://github.com/fricklerhandwerk/flake-inputs) - A helper to use remote references from `flake.lock` in stable Nix.
 - [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
@@ -417,6 +418,7 @@
 
 ## Python 
 
+- [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [althonos/ffpb](https://github.com/althonos/ffpb) - A progress bar for ffmpeg. Yay !
@@ -581,6 +583,7 @@
 
 ## Shell 
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
