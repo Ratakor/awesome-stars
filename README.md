@@ -293,6 +293,10 @@
 
 ## Nix 
 
+- [yunfachi/nix-config-wallpapers](https://github.com/yunfachi/nix-config-wallpapers) - Wallpaper collection for use in my nix-config
+- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
+- [yunfachi/nix-osu](https://github.com/yunfachi/nix-osu) - Declarative configuration of osu!
+- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [fricklerhandwerk/module-sources](https://github.com/fricklerhandwerk/module-sources) - Module-level source references: declare locally, pin globally
 - [fricklerhandwerk/flake-inputs](https://github.com/fricklerhandwerk/flake-inputs) - A helper to use remote references from `flake.lock` in stable Nix.
