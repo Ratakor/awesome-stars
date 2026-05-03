@@ -143,6 +143,7 @@
 
 ## android 
 
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [celenityy/better-cromite](https://github.com/celenityy/better-cromite) - My recommendations for the ultimate configuration of the Cromite Browser :)
@@ -858,7 +859,7 @@
 - [grug-lang/grug](https://github.com/grug-lang/grug) - Make your mods immortal.
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
-- [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
+- [catacombing/catacomb](https://github.com/catacombing/catacomb) - Moved to SourceHut
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [RGBCube/ncc](https://github.com/RGBCube/ncc) - RGBCube's Config Collection.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
