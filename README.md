@@ -293,6 +293,7 @@
 
 ## Nix 
 
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [yunfachi/nix-config-wallpapers](https://github.com/yunfachi/nix-config-wallpapers) - Wallpaper collection for use in my nix-config
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [yunfachi/nix-osu](https://github.com/yunfachi/nix-osu) - Declarative configuration of osu!
@@ -549,7 +550,7 @@
 - [maxbrunet/automatic-timezoned](https://github.com/maxbrunet/automatic-timezoned) - A Linux daemon to automatically update the system timezone based on location
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
+- [catacombing/catacomb](https://github.com/catacombing/catacomb) - Moved to SourceHut
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [NotAShelf/stash](https://github.com/NotAShelf/stash) - Wayland clipboard "manager" with fast persistent history and multi-media support
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
