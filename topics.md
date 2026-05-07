@@ -728,6 +728,7 @@
 
 ## others 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
 - [yunfachi/nix-config-wallpapers](https://github.com/yunfachi/nix-config-wallpapers) - Wallpaper collection for use in my nix-config
 - [yunfachi/nix-osu](https://github.com/yunfachi/nix-osu) - Declarative configuration of osu!
