@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -84,6 +85,7 @@
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
+- [npm](#npm)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -131,6 +133,10 @@
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
+
+## 3d 
+
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 
 ## agents 
 
@@ -449,7 +455,7 @@
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
@@ -546,6 +552,7 @@
 
 ## javascript 
 
+- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
@@ -706,8 +713,13 @@
 
 ## nodejs 
 
+- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## npm 
+
+- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 
 ## open-source 
 
@@ -730,6 +742,14 @@
 
 ## others 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
+- [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
+- [Xerxes-2/wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - Wakatime plugin for Helix Steel
+- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) - A notification engine for Helix
+- [mattwparas/helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - 
+- [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) - File Manager in a buffer for Helix editor
+- [nik-rev/ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - Use Helix to edit text in the browser!
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
@@ -757,7 +777,6 @@
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
 - [iynaix/dotfiles](https://github.com/iynaix/dotfiles) - I use NixOS btw.
 - [toastal/nixtamal](https://github.com/toastal/nixtamal) - NOT a mirror of Nixtamal; that would undermine the purpose of the tool—which is to open up previously-unsupported fetchers & promote self-hosting. Visit the offical site to get the Darcs repository.
-- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [faetalize/waytator](https://github.com/faetalize/waytator) - Wayland image annotation tool
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
@@ -1135,6 +1154,7 @@
 
 ## rust 
 
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [Userwithaname/mellow](https://github.com/Userwithaname/mellow) - Distraction-free music listening
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
@@ -1235,6 +1255,7 @@
 
 ## terminal 
 
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and general-purpose calculator
@@ -1302,6 +1323,7 @@
 
 ## typescript 
 
+- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
@@ -1393,7 +1415,7 @@
 - [RossComputerGuy/ziptools](https://github.com/RossComputerGuy/ziptools) - Modern zip & unzip replacements
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
 - [judofyr/spice](https://github.com/judofyr/spice) - Fine-grained parallelism with sub-nanosecond overhead in Zig
 - [nektro/zig-extras](https://github.com/nektro/zig-extras) - An assortment of random utility functions that aren't in std and don't need to be their own pacakge.
