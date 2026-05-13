@@ -256,6 +256,7 @@
 
 ## Lua 
 
+- [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) - A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system.
 - [y9san9/y9san9.nvim](https://github.com/y9san9/y9san9.nvim) - Sub-100 LoC nvim config intended to be used only by me
@@ -479,6 +480,10 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [mattwparas/helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - 
+- [nik-rev/ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - Use Helix to edit text in the browser!
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [NotAShelf/eh](https://github.com/NotAShelf/eh) - Ergonomic Nix helper
 - [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
@@ -591,6 +596,9 @@
 
 ## Scheme 
 
+- [Xerxes-2/wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - Wakatime plugin for Helix Steel
+- [chuwy/notify.hx](https://github.com/chuwy/notify.hx) - A notification engine for Helix
+- [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) - File Manager in a buffer for Helix editor
 - [thomasschafer/scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace Helix plugin
 - [aartaka/guix-config](https://github.com/aartaka/guix-config) - My configuration for Guix package manager and Guix System Distribution
 - [plattfot/pinentry-rofi](https://github.com/plattfot/pinentry-rofi) - Rofi frontend to pinentry
@@ -654,6 +662,7 @@
 
 ## Vim Script 
 
+- [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [chtenb/helix.vim](https://github.com/chtenb/helix.vim) - Emulate Helix keybindings inside Vim emulators
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
@@ -688,7 +697,7 @@
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [foxnne/scoop-ems](https://github.com/foxnne/scoop-ems) - Scoop some dirt and find some treasure!
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
 - [fjebaker/nkt](https://github.com/fjebaker/nkt) - Terminal note taking. Moved to sourcehut.
 - [aeronavery/zig-toml](https://github.com/aeronavery/zig-toml) - A TOML parser written in Zig
 - [pfgithub/zig3ds](https://github.com/pfgithub/zig3ds) - run zig on 3ds
