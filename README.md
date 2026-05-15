@@ -187,6 +187,7 @@
 
 ## Go 
 
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [Kronark/Node-Compiler-Prototype-Public](https://github.com/Kronark/Node-Compiler-Prototype-Public) - 
