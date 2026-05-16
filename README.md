@@ -274,7 +274,7 @@
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [LunaAstraCassiopeia/DreadJokers](https://github.com/LunaAstraCassiopeia/DreadJokers) - A mod inspired by The Magnus Archives featuring 30 new jokers and 3 new consumables!
-- [nh6574/VanillaRemade](https://github.com/nh6574/VanillaRemade) - 
+- [nh6574/VanillaRemade](https://github.com/nh6574/VanillaRemade) - Example mod for Balatro
 - [ArchWizardLesbian/ArchRail](https://github.com/ArchWizardLesbian/ArchRail) - A Funny little mod for a Funny little jester game :3
 - [Mil0Meg4/Resurgence](https://github.com/Mil0Meg4/Resurgence) - The vampire is in another mod!
 - [icyethics/Glue-For-Modpacks](https://github.com/icyethics/Glue-For-Modpacks) - Balatro Mod to add utilities that may make playing with many mods more enjoyable
@@ -481,6 +481,7 @@
 
 ## Rust 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [mattwparas/helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - 
 - [nik-rev/ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - Use Helix to edit text in the browser!
@@ -626,7 +627,7 @@
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [bugswriter/tuxi](https://github.com/bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
-- [starcitizen-lug/lug-helper](https://github.com/starcitizen-lug/lug-helper) - Star Citizen's Linux Users Group Helper Script
+- [starcitizen-lug/lug-helper](https://github.com/starcitizen-lug/lug-helper) - Easily install Star Citizen on Linux - The Linux Users Group Helper Script
 - [InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO) - A Gentoo Portage configuration for building with -O3, Graphite, and LTO optimizations
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
 - [c00kiemon5ter/iii](https://github.com/c00kiemon5ter/iii) - POSIX sh frontend to iim or ii
