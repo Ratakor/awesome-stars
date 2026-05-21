@@ -749,6 +749,7 @@
 
 ## others 
 
+- [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -759,7 +760,7 @@
 - [mattwparas/helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - 
 - [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) - File Manager in a buffer for Helix editor
 - [nik-rev/ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - Use Helix to edit text in the browser!
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 70+ 语言
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [NotAShelf/eh](https://github.com/NotAShelf/eh) - Ergonomic Nix helper
