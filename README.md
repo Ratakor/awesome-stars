@@ -480,6 +480,7 @@
 
 ## Rust 
 
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
