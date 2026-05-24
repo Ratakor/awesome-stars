@@ -682,6 +682,7 @@
 
 ## Zig 
 
+- [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
 - [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
