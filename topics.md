@@ -572,6 +572,7 @@
 
 ## language 
 
+- [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
@@ -1105,6 +1106,7 @@
 
 ## programming-language 
 
+- [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
 - [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
