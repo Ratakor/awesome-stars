@@ -57,6 +57,7 @@
 
 ## C 
 
+- [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and general-purpose calculator
@@ -500,7 +501,7 @@
 - [lune-org/lune](https://github.com/lune-org/lune) - A standalone Luau runtime
 - [Userwithaname/mellow](https://github.com/Userwithaname/mellow) - Distraction-free music listening
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
-- [feel-co/nixos-core](https://github.com/feel-co/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
+- [sisyphean-group/nixos-core](https://github.com/sisyphean-group/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
@@ -509,7 +510,7 @@
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a zellij popup system (with lazygit as default), zoxide integrations, a config UI, zjst
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue-light filter for Hyprland, Niri, and everything Wayland
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
