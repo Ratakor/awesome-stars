@@ -189,6 +189,7 @@
 
 ## Go 
 
+- [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
@@ -483,6 +484,11 @@
 
 ## Rust 
 
+- [sisyphean-group/npr](https://github.com/sisyphean-group/npr) - A pull request tracker for Nixpkgs
+- [sisyphean-group/custos](https://github.com/sisyphean-group/custos) - A small and simple USB authorization daemon.
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
+- [mooofin/hypv64](https://github.com/mooofin/hypv64) - RISC-V 64 hypervisor written in Rust
+- [tiborgats/native-theme](https://github.com/tiborgats/native-theme) - Toolkit-agnostic Rust crate for unified OS theme data
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
