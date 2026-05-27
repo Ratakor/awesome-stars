@@ -761,8 +761,10 @@
 
 ## others 
 
-- [sisyphean-group/npr](https://github.com/sisyphean-group/npr) - A pull request tracker for Nixpkgs
-- [sisyphean-group/custos](https://github.com/sisyphean-group/custos) - A small and simple USB authorization daemon.
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
+- [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans
+- [manic-systems/npr](https://github.com/manic-systems/npr) - A pull request tracker for Nixpkgs
+- [manic-systems/custos](https://github.com/manic-systems/custos) - A small and simple USB authorization daemon.
 - [mooofin/hypv64](https://github.com/mooofin/hypv64) - RISC-V 64 hypervisor written in Rust
 - [tiborgats/native-theme](https://github.com/tiborgats/native-theme) - Toolkit-agnostic Rust crate for unified OS theme data
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
@@ -780,7 +782,7 @@
 - [mattwparas/helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - 
 - [Ra77a3l3-jar/oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) - File Manager in a buffer for Helix editor
 - [nik-rev/ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - Use Helix to edit text in the browser!
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 100+ 语言
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 120+ 语言
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [NotAShelf/eh](https://github.com/NotAShelf/eh) - Ergonomic Nix helper
@@ -1185,6 +1187,7 @@
 
 ## rust 
 
+- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
@@ -1192,7 +1195,7 @@
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [Userwithaname/mellow](https://github.com/Userwithaname/mellow) - Distraction-free music listening
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
-- [sisyphean-group/nixos-core](https://github.com/sisyphean-group/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
+- [manic-systems/nixos-core](https://github.com/manic-systems/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
