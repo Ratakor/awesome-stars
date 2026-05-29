@@ -40,7 +40,6 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
-- [Swift](#swift)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
@@ -117,7 +116,7 @@
 - [luisbg/fs-construction-kit](https://github.com/luisbg/fs-construction-kit) - File System Construction Kit
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
@@ -230,6 +229,7 @@
 
 - [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [j-c-m/xkcd-password-generator](https://github.com/j-c-m/xkcd-password-generator) - An xkcd inspired password generator
@@ -657,10 +657,6 @@
 ## Svelte 
 
 - [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
-
-## Swift 
-
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 ## TypeScript 
 
