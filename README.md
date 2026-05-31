@@ -227,6 +227,7 @@
 
 ## JavaScript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
