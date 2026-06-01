@@ -500,6 +500,7 @@
 
 ## golang 
 
+- [Aleksanaa/peak](https://github.com/Aleksanaa/peak) - An Acme-inspired Terminal Text Editor | Acme 风味命令行编辑器
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [rjkroege/edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
@@ -764,6 +765,12 @@
 
 ## others 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
+- [dap-mux/dap-mux](https://github.com/dap-mux/dap-mux) - DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures.
+- [Amanieu/corosensei](https://github.com/Amanieu/corosensei) - A fast and safe implementation of stackful coroutines in Rust
+- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [fprasx/cargo-unfmt](https://github.com/fprasx/cargo-unfmt) - unformat code into perfect blocks
 - [manic-systems/tack](https://github.com/manic-systems/tack) - flake-like toml nix pins, lazily fetched and transformed
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
@@ -1347,6 +1354,7 @@
 
 ## tui 
 
+- [Aleksanaa/peak](https://github.com/Aleksanaa/peak) - An Acme-inspired Terminal Text Editor | Acme 风味命令行编辑器
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
