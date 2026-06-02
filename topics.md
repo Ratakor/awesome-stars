@@ -461,7 +461,7 @@
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig.
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
@@ -522,6 +522,7 @@
 
 ## hacktoberfest 
 
+- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -675,6 +676,7 @@
 
 ## markdown 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [crocidb/bulletty](https://github.com/crocidb/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 
 ## material-design 
@@ -765,6 +767,7 @@
 
 ## others 
 
+- [Michael-C-Buckley/nixos](https://github.com/Michael-C-Buckley/nixos) - My primary NixOS system configurations
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -1310,6 +1313,8 @@
 
 ## terminal 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
@@ -1479,7 +1484,7 @@
 - [RossComputerGuy/ziptools](https://github.com/RossComputerGuy/ziptools) - Modern zip & unzip replacements
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig.
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
 - [judofyr/spice](https://github.com/judofyr/spice) - Fine-grained parallelism with sub-nanosecond overhead in Zig
 - [nektro/zig-extras](https://github.com/nektro/zig-extras) - An assortment of random utility functions that aren't in std and don't need to be their own pacakge.
