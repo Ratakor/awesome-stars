@@ -461,7 +461,7 @@
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig.
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
@@ -1484,7 +1484,7 @@
 - [RossComputerGuy/ziptools](https://github.com/RossComputerGuy/ziptools) - Modern zip & unzip replacements
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig.
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig
 - [zig-gamedev/zmath](https://github.com/zig-gamedev/zmath) - SIMD math library for Zig game developers
 - [judofyr/spice](https://github.com/judofyr/spice) - Fine-grained parallelism with sub-nanosecond overhead in Zig
 - [nektro/zig-extras](https://github.com/nektro/zig-extras) - An assortment of random utility functions that aren't in std and don't need to be their own pacakge.
