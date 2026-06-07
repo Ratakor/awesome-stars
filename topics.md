@@ -778,6 +778,7 @@
 
 ## others 
 
+- [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
 - [contyk/jj](https://github.com/contyk/jj) - Simple FIFO and filesystem based Jabber/XMPP client
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [external-mirrors/phoenix](https://github.com/external-mirrors/phoenix) - 
