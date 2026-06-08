@@ -221,6 +221,7 @@
 
 ## Haskell 
 
+- [ubugeeei-prod/tnix](https://github.com/ubugeeei-prod/tnix) - tnix (typed-nix) is gradual type system for nix
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
@@ -487,7 +488,7 @@
 - [Yujonpradhananga/Persona-Quickshell](https://github.com/Yujonpradhananga/Persona-Quickshell) - Persona 3 Reload themed Quickshell theme for Hyprland/MangoWC
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [hooss-only/dotfiles-minecraft-style](https://github.com/hooss-only/dotfiles-minecraft-style) - Fan-made minecraft style ricing dotfile
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
 ## RenderScript 
 
