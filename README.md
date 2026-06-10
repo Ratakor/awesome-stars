@@ -402,6 +402,7 @@
 
 ## OCaml 
 
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [zxygentoo/mal-ocaml](https://github.com/zxygentoo/mal-ocaml) - Make-A-Lisp in OCaml
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
