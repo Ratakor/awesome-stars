@@ -44,6 +44,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
+- [Wren](#wren)
 - [Zig](#zig)
 
 ## Assembly 
@@ -253,6 +254,7 @@
 
 ## Kotlin 
 
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -533,7 +535,7 @@
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [manic-systems/nixos-core](https://github.com/manic-systems/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
-- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
+- [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
@@ -712,6 +714,10 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [overvale/vacme](https://github.com/overvale/vacme) - Vim colorscheme based on plan9 and acme.
+
+## Wren 
+
+- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 ## Zig 
 
