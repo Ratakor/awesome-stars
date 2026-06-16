@@ -793,6 +793,9 @@
 
 ## others 
 
+- [sotormd/coffee](https://github.com/sotormd/coffee) - A very minimal openbox configuration for my NixOS needs
+- [ChocolateBread799/retro](https://github.com/ChocolateBread799/retro) - 
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
 - [contyk/jj](https://github.com/contyk/jj) - Simple FIFO and filesystem based Jabber/XMPP client
@@ -883,8 +886,8 @@
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 - [hughcoleman/advent-of-code](https://github.com/hughcoleman/advent-of-code) - :christmas_tree:
 - [zxygentoo/mal-ocaml](https://github.com/zxygentoo/mal-ocaml) - Make-A-Lisp in OCaml
-- [Yujonpradhananga/Persona-Quickshell](https://github.com/Yujonpradhananga/Persona-Quickshell) - Persona 3 Reload themed Quickshell theme for Hyprland/MangoWC
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [Yujonpradhananga/Persona-Quickshell](https://github.com/Yujonpradhananga/Persona-Quickshell) - Persona 3 Reload Quickshell theme for Hyprland
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
 - [ThomasLeMagoariec/blackos](https://github.com/ThomasLeMagoariec/blackos) - 
 - [d-002/my_remote](https://github.com/d-002/my_remote) - Tool suite for remote shells and whatnot
@@ -1358,6 +1361,7 @@
 
 ## terminal 
 
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
@@ -1405,6 +1409,7 @@
 
 ## tui 
 
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
 - [Aleksanaa/peak](https://github.com/Aleksanaa/peak) - An Acme-inspired Terminal Text Editor | Acme 风味命令行编辑器
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -1518,6 +1523,7 @@
 
 ## zig 
 
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
