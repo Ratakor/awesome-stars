@@ -48,6 +48,7 @@
 - [emulator](#emulator)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
@@ -472,6 +473,10 @@
 
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 
+## font 
+
+- [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
+
 ## framework 
 
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
@@ -651,6 +656,7 @@
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
@@ -1279,6 +1285,7 @@
 
 ## rust 
 
+- [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
@@ -1493,6 +1500,7 @@
 
 ## ui 
 
+- [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
