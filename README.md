@@ -258,6 +258,7 @@
 
 ## Kotlin 
 
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
@@ -319,6 +320,7 @@
 
 ## Nix 
 
+- [adeci/root](https://github.com/adeci/root) - 
 - [sotormd/coffee](https://github.com/sotormd/coffee) - A very minimal openbox configuration for my NixOS needs
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
@@ -511,6 +513,7 @@
 
 ## Rust 
 
+- [adeci/drv-thru](https://github.com/adeci/drv-thru) - can I get uhhhhh
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
