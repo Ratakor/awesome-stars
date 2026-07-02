@@ -75,6 +75,7 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [language](#language)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -644,6 +645,10 @@
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [Luukdegram/luf](https://github.com/Luukdegram/luf) - Statically typed, embeddable, scripting language written in Zig.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
+
+## learn-to-code 
+
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## learning 
 
