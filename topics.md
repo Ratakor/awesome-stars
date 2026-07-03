@@ -294,6 +294,7 @@
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - Terminal based project management solution
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
@@ -841,7 +842,7 @@
 ## others 
 
 - [adeci/root](https://github.com/adeci/root) - 
-- [adeci/drv-thru](https://github.com/adeci/drv-thru) - can I get uhhhhh
+- [adeci/drv-thru](https://github.com/adeci/drv-thru) - p2p nix builds! "can I get uhhhhh"
 - [sometimesdigital/share-liked-songs](https://github.com/sometimesdigital/share-liked-songs) - Create a shareable copy of your Liked Songs playlist.
 - [Mr-Emacs/nwm](https://github.com/Mr-Emacs/nwm) - NWM: A tiling + scrollable x11 WM with sensible defaults that does not suck.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
@@ -977,7 +978,6 @@
 - [myrrlyn/tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
 - [jmanc3/hyprselect](https://github.com/jmanc3/hyprselect) - A plugin that adds a completely useless desktop selection box to Hyprland
 - [DonIsaac/smart-pointers](https://github.com/DonIsaac/smart-pointers) - A library of smart pointers for Zig
-- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
@@ -1328,6 +1328,7 @@
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - Terminal based project management solution
@@ -1481,6 +1482,7 @@
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - Terminal based project management solution
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
