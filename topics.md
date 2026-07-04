@@ -22,6 +22,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [c-sharp](#c-sharp)
 - [chatgpt](#chatgpt)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -140,6 +141,7 @@
 - [vue](#vue)
 - [web](#web)
 - [web-assembly](#web-assembly)
+- [website](#website)
 - [windows](#windows)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -268,6 +270,10 @@
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 120+ 语言
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+
+## claude 
+
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 ## claude-code 
 
@@ -1575,6 +1581,10 @@
 ## web-assembly 
 
 - [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
+
+## website 
+
+- [Lyro1/Netiquette-Mail-Corrector](https://github.com/Lyro1/Netiquette-Mail-Corrector) - This website allows you to verify that your mail is compliant with the ACU's Netiquette.
 
 ## windows 
 
