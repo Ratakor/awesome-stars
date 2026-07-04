@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [Lyro1/Netiquette-Mail-Corrector](https://github.com/Lyro1/Netiquette-Mail-Corrector) - This website allows you to verify that your mail is compliant with the ACU's Netiquette.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
