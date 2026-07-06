@@ -27,6 +27,7 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [MiniZinc](#minizinc)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
@@ -34,6 +35,7 @@
 - [Perl](#perl)
 - [Python](#python)
 - [QML](#qml)
+- [Racket](#racket)
 - [RenderScript](#renderscript)
 - [Roff](#roff)
 - [Rust](#rust)
@@ -58,6 +60,7 @@
 
 ## C 
 
+- [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD, written in C99
 - [contyk/jj](https://github.com/contyk/jj) - Simple FIFO and filesystem based Jabber/XMPP client
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
@@ -140,6 +143,7 @@
 
 ## C++ 
 
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [Mr-Emacs/nwm](https://github.com/Mr-Emacs/nwm) - NWM: A tiling + scrollable x11 WM with sensible defaults that does not suck.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
@@ -319,6 +323,10 @@
 
 - [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc) - The MiniZinc compiler
 
+## Nim 
+
+- [feel-co/spam](https://github.com/feel-co/spam) - search packages and modules
+
 ## Nix 
 
 - [adeci/root](https://github.com/adeci/root) - 
@@ -429,6 +437,7 @@
 
 ## Others 
 
+- [glaforge/deslopify](https://github.com/glaforge/deslopify) - A Gemini CLI skill to make text more genuine, natural, and free of AI tropes.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [hanyu1774/helixgelion](https://github.com/hanyu1774/helixgelion) - A colorscheme for the Helix code editor using colors from Evangelion
@@ -504,6 +513,10 @@
 - [hooss-only/dotfiles-minecraft-style](https://github.com/hooss-only/dotfiles-minecraft-style) - Fan-made minecraft style ricing dotfile
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
+## Racket 
+
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
+
 ## RenderScript 
 
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀
@@ -514,6 +527,7 @@
 
 ## Rust 
 
+- [hovinen/test-that](https://github.com/hovinen/test-that) - Test assertion library for Rust
 - [adeci/drv-thru](https://github.com/adeci/drv-thru) - p2p nix builds! "can I get uhhhhh"
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
