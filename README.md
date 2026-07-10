@@ -699,7 +699,6 @@
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
-- [Michael-Sebero/Algiz-Linux](https://github.com/Michael-Sebero/Algiz-Linux) - Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [vdawg-git/fantasy-rice](https://github.com/vdawg-git/fantasy-rice) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
@@ -730,6 +729,7 @@
 
 ## TypeScript 
 
+- [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [sometimesdigital/share-liked-songs](https://github.com/sometimesdigital/share-liked-songs) - Create a shareable copy of your Liked Songs playlist.
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
