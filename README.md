@@ -337,7 +337,7 @@
 - [llakala/nixos](https://github.com/llakala/nixos) - My NixOS config
 - [llakala/lladios](https://github.com/llakala/lladios) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
-- [adeci/root](https://github.com/adeci/root) - 
+- [adeci/root](https://github.com/adeci/root) - Everything I run, declared in Nix: systems, packages, services, and networking.
 - [sotormd/coffee](https://github.com/sotormd/coffee) - A very minimal openbox configuration for my NixOS needs
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
@@ -535,6 +535,8 @@
 
 ## Rust 
 
+- [manic-systems/cade](https://github.com/manic-systems/cade) - an intelligent, cascading environment manager
+- [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [hannobraun/kari](https://github.com/hannobraun/kari) - Kari, an embeddable programming language, written in and for Rust
 - [hovinen/test-that](https://github.com/hovinen/test-that) - Test assertion library for Rust
@@ -699,6 +701,7 @@
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
+- [Michael-Sebero/Algiz-Linux](https://github.com/Michael-Sebero/Algiz-Linux) - Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [vdawg-git/fantasy-rice](https://github.com/vdawg-git/fantasy-rice) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
