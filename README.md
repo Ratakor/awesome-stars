@@ -557,7 +557,7 @@
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
 - [manic-systems/npr](https://github.com/manic-systems/npr) - A pull request tracker for Nixpkgs
 - [manic-systems/custos](https://github.com/manic-systems/custos) - A small and simple USB authorization daemon.
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
 - [mooofin/hypv64](https://github.com/mooofin/hypv64) - RISC-V 64 hypervisor written in Rust
 - [tiborgats/native-theme](https://github.com/tiborgats/native-theme) - Toolkit-agnostic Rust crate for unified OS theme data
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
