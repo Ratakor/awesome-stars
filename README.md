@@ -536,6 +536,8 @@
 
 ## Rust 
 
+- [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
+- [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
 - [manic-systems/cade](https://github.com/manic-systems/cade) - an intelligent, cascading environment manager
 - [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
@@ -557,7 +559,7 @@
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
 - [manic-systems/npr](https://github.com/manic-systems/npr) - A pull request tracker for Nixpkgs
 - [manic-systems/custos](https://github.com/manic-systems/custos) - A small and simple USB authorization daemon.
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [mooofin/hypv64](https://github.com/mooofin/hypv64) - RISC-V 64 hypervisor written in Rust
 - [tiborgats/native-theme](https://github.com/tiborgats/native-theme) - Toolkit-agnostic Rust crate for unified OS theme data
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
@@ -587,7 +589,7 @@
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive Nix-packaged terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue-light filter for Hyprland, Niri, and everything Wayland
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
