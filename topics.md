@@ -295,7 +295,7 @@
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari (狩り) — hunt media from the terminal. Search, stream, and download anime, movies, TV shows & cartoons across 5+ providers with MPV/IINA/VLC/MX Player support, Trakt/AniList scrobbling, and auto-su
 - [Wraient/curd](https://github.com/Wraient/curd) - Watch anime in cli with Anilist, MAL Integration and Discord RPC
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -744,7 +744,7 @@
 ## lua 
 
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive Nix-packaged terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell.
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -875,6 +875,8 @@
 
 ## others 
 
+- [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
+- [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
 - [manic-systems/cade](https://github.com/manic-systems/cade) - an intelligent, cascading environment manager
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
 - [llakala/nixos](https://github.com/llakala/nixos) - My NixOS config
@@ -1373,7 +1375,7 @@
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive Nix-packaged terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell.
 - [ISibboI/evalexpr](https://github.com/ISibboI/evalexpr) - A powerful expression evaluation crate 🦀.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
@@ -1448,10 +1450,10 @@
 ## shell 
 
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive Nix-packaged terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
@@ -1486,7 +1488,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
@@ -1496,7 +1498,7 @@
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive Nix-packaged terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
@@ -1542,7 +1544,7 @@
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
 - [Aleksanaa/peak](https://github.com/Aleksanaa/peak) - An Acme-inspired Terminal Text Editor | Acme 风味命令行编辑器
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
