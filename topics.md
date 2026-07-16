@@ -883,7 +883,6 @@
 - [llakala/nixos](https://github.com/llakala/nixos) - My NixOS config
 - [llakala/lladios](https://github.com/llakala/lladios) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
-- [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!
 - [Spithskia/Shiru-Extensions](https://github.com/Spithskia/Shiru-Extensions) - Extension repository for Shiru, Provided by the Community
 - [hannobraun/kari](https://github.com/hannobraun/kari) - Kari, an embeddable programming language, written in and for Rust
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
@@ -907,7 +906,7 @@
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [external-mirrors/phoenix](https://github.com/external-mirrors/phoenix) - 
 - [Michael-C-Buckley/nixos](https://github.com/Michael-C-Buckley/nixos) - My primary NixOS system configurations
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [dap-mux/dap-mux](https://github.com/dap-mux/dap-mux) - DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures.
