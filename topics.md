@@ -292,6 +292,7 @@
 
 ## cli 
 
+- [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari (狩り) — hunt media from the terminal. Search, stream, and download anime, movies, TV shows & cartoons across 5+ providers with MPV/IINA/VLC/MX Player support, Trakt/AniList scrobbling, and auto-su
 - [Wraient/curd](https://github.com/Wraient/curd) - Watch anime in cli with Anilist, MAL Integration and Discord RPC
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
@@ -398,7 +399,7 @@
 
 ## database 
 
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 
 ## deep-learning 
 
@@ -449,7 +450,6 @@
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
@@ -1355,6 +1355,7 @@
 
 ## rust 
 
+- [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
@@ -1456,7 +1457,7 @@
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
@@ -1467,7 +1468,7 @@
 ## sql 
 
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 
 ## swift 
 
@@ -1479,6 +1480,7 @@
 
 ## terminal 
 
+- [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari (狩り) — hunt media from the terminal. Search, stream, and download anime, movies, TV shows & cartoons across 5+ providers with MPV/IINA/VLC/MX Player support, Trakt/AniList scrobbling, and auto-su
@@ -1540,6 +1542,7 @@
 
 ## tui 
 
+- [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari (狩り) — hunt media from the terminal. Search, stream, and download anime, movies, TV shows & cartoons across 5+ providers with MPV/IINA/VLC/MX Player support, Trakt/AniList scrobbling, and auto-su
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
