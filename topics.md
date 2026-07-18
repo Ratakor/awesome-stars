@@ -399,7 +399,7 @@
 
 ## database 
 
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 
 ## deep-learning 
 
@@ -489,6 +489,7 @@
 
 ## emulator 
 
+- [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
 - [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
 
 ## firefox 
@@ -612,6 +613,7 @@
 
 ## homebrew 
 
+- [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 
 ## html 
@@ -875,6 +877,7 @@
 
 ## others 
 
+- [pound-emu/ballistic](https://github.com/pound-emu/ballistic) - The Ballistic JIT Engine: On track to become the worlds fastest ARM recompiler.
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV-compatible task management app.
 - [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
@@ -1468,7 +1471,7 @@
 ## sql 
 
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 
 ## swift 
 
