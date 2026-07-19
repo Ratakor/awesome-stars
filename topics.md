@@ -180,6 +180,7 @@
 
 ## android 
 
+- [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
@@ -446,7 +447,7 @@
 ## dotfiles 
 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
-- [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration flake for multiple hosts with ZFS, Impermanence, MicroVMs, WireGuard, etc
+- [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration for multiple hosts, with custom Impermanence, MicroVMs, and CLI tooling. Plus ZFS, WireGuard, bootstrap images, etc.
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
@@ -746,7 +747,7 @@
 ## lua 
 
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -877,6 +878,7 @@
 
 ## others 
 
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [pound-emu/ballistic](https://github.com/pound-emu/ballistic) - The Ballistic JIT Engine: On track to become the worlds fastest ARM recompiler.
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV-compatible task management app.
 - [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
@@ -1379,7 +1381,7 @@
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [ISibboI/evalexpr](https://github.com/ISibboI/evalexpr) - A powerful expression evaluation crate 🦀.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
@@ -1457,7 +1459,7 @@
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [proh14/psh](https://github.com/proh14/psh) - psh, a small and minimal shell.  public domain 💘
 - [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
@@ -1503,7 +1505,7 @@
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
