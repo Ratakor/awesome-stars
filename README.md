@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari (狩り) — hunt media from the terminal. Search, stream, and download anime, movies, TV shows & cartoons across 5+ providers with MPV/IINA/VLC/MX Player support, Trakt/AniList scrobbling, and auto-su
 - [Wraient/curd](https://github.com/Wraient/curd) - Watch anime in cli with Anilist, MAL Integration and Discord RPC
@@ -270,6 +271,7 @@
 
 ## Kotlin 
 
+- [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
@@ -344,7 +346,7 @@
 - [sotormd/coffee](https://github.com/sotormd/coffee) - A very minimal openbox configuration for my NixOS needs
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
-- [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration flake for multiple hosts with ZFS, Impermanence, MicroVMs, WireGuard, etc
+- [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration for multiple hosts, with custom Impermanence, MicroVMs, and CLI tooling. Plus ZFS, WireGuard, bootstrap images, etc.
 - [Michael-C-Buckley/nixos](https://github.com/Michael-C-Buckley/nixos) - My primary NixOS system configurations
 - [amaanq/helium-flake](https://github.com/amaanq/helium-flake) - Nix flake for the Helium browser
 - [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
@@ -592,7 +594,7 @@
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue-light filter for Hyprland, Niri, and everything Wayland
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
