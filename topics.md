@@ -180,6 +180,8 @@
 
 ## android 
 
+- [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Mirror of https://codeberg.org/iamlooker/kenko
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -650,6 +652,7 @@
 
 ## jetpack-compose 
 
+- [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Mirror of https://codeberg.org/iamlooker/kenko
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 
 ## json 
@@ -663,6 +666,8 @@
 
 ## kotlin 
 
+- [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Mirror of https://codeberg.org/iamlooker/kenko
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
 
@@ -879,6 +884,7 @@
 
 ## others 
 
+- [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [pound-emu/ballistic](https://github.com/pound-emu/ballistic) - The Ballistic JIT Engine: On track to become the worlds fastest ARM recompiler.
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV-compatible task management app.
