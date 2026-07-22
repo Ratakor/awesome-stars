@@ -272,8 +272,8 @@
 
 ## Kotlin 
 
+- [tristinbaker/IdleFantasy](https://github.com/tristinbaker/IdleFantasy) - Fantasy Inspired Idle Skilling Game
 - [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Mirror of https://codeberg.org/iamlooker/kenko
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -342,6 +342,7 @@
 
 ## Nix 
 
+- [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [llakala/nixos](https://github.com/llakala/nixos) - My NixOS config
 - [llakala/lladios](https://github.com/llakala/lladios) - 
@@ -544,6 +545,7 @@
 
 ## Rust 
 
+- [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
