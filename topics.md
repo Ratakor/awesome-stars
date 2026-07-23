@@ -714,7 +714,7 @@
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
