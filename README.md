@@ -544,6 +544,8 @@
 
 ## Rust 
 
+- [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) - A lightweight, feature rich Wayland idle manager written in Rust
+- [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
@@ -784,9 +786,10 @@
 
 ## Zig 
 
+- [mrusme/zpoweralertd](https://github.com/mrusme/zpoweralertd) - Zig rewrite and drop-in replacement of poweralertd (https://tty.fail/mrus/zpoweralertd)
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
 - [kewuaa/kwm](https://github.com/kewuaa/kwm) - A window manager based on River Wayland compositor
-- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
 - [external-mirrors/phoenix](https://github.com/external-mirrors/phoenix) - 
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
