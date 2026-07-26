@@ -525,6 +525,7 @@
 
 ## QML 
 
+- [XephyLon/immaterial-impulse](https://github.com/XephyLon/immaterial-impulse) - Illogical Impulse's Evil Twin. A Bloatility-first Setup
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [Yujonpradhananga/Persona-Quickshell](https://github.com/Yujonpradhananga/Persona-Quickshell) - Persona 3 Reload Quickshell theme for Hyprland
 - [hooss-only/dotfiles-minecraft-style](https://github.com/hooss-only/dotfiles-minecraft-style) - Fan-made minecraft style ricing dotfile
