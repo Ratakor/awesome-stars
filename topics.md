@@ -889,6 +889,7 @@
 
 ## others 
 
+- [XephyLon/immaterial-impulse](https://github.com/XephyLon/immaterial-impulse) - Illogical Impulse's Evil Twin. A Bloatility-first Setup
 - [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) - A lightweight, feature rich Wayland idle manager written in Rust
 - [tristinbaker/IdleFantasy](https://github.com/tristinbaker/IdleFantasy) - Fantasy Inspired Idle Skilling Game
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
