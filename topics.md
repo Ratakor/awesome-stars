@@ -486,6 +486,7 @@
 
 ## emacs 
 
+- [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
 - [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
 - [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
@@ -758,6 +759,7 @@
 
 ## lua 
 
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
@@ -890,6 +892,7 @@
 
 ## others 
 
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [tinted-theming/tinted-helix](https://github.com/tinted-theming/tinted-helix) - base16 colors for helix
 - [eldritch-theme/eldritch](https://github.com/eldritch-theme/eldritch) - A theme for the Ancient Ones!
 - [ItsLemmy/swash](https://github.com/ItsLemmy/swash) - Swash is a fast screenshot annotator and lightweight image editor for Linux.
@@ -1007,7 +1010,7 @@
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
 - [NotAShelf/mpvrc](https://github.com/NotAShelf/mpvrc) - Unofficial IPC wrapper & command-line controller for MPV, the video player
 - [Dacraezy1/wayclicker](https://github.com/Dacraezy1/wayclicker) - A lightweight and efficient autoclicker built specifically for Wayland compositors on Linux
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
 - [hanyu1774/helixgelion](https://github.com/hanyu1774/helixgelion) - A colorscheme for the Helix code editor using colors from Evangelion
@@ -1306,6 +1309,7 @@
 
 ## programming-language 
 
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
