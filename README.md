@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [Mr-Emacs/nwm](https://github.com/Mr-Emacs/nwm) - NWM: A tiling + scrollable x11 WM with sensible defaults that does not suck.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -194,6 +195,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
 - [mgmarlow/helix-mode](https://github.com/mgmarlow/helix-mode) - Helix keybindings in Emacs
 - [Pranshu258/emacsdoctor](https://github.com/Pranshu258/emacsdoctor) - This is an enhanced version of the emacs doctor chatbot
 - [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
@@ -557,6 +559,7 @@
 
 ## Rust 
 
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) - A lightweight, feature rich Wayland idle manager written in Rust
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
@@ -619,7 +622,7 @@
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue-light filter for Hyprland, Niri, and everything Wayland
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
 - [NotAShelf/mpvrc](https://github.com/NotAShelf/mpvrc) - Unofficial IPC wrapper & command-line controller for MPV, the video player
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
