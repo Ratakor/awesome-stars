@@ -33,6 +33,7 @@
 - [Nix](#nix)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
+- [Odin](#odin)
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
@@ -467,6 +468,10 @@
 - [odis-labs/streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions.
 - [c-cube/iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
 
+## Odin 
+
+- [diniamo/iv](https://github.com/diniamo/iv) - Cross-platform image viewer in Odin, SDL3 and Vulkan.
+
 ## Others 
 
 - [glaforge/deslopify](https://github.com/glaforge/deslopify) - A Gemini CLI skill to make text more genuine, natural, and free of AI tropes.
@@ -502,6 +507,7 @@
 
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [dap-mux/dap-mux](https://github.com/dap-mux/dap-mux) - DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [nikstur/brr](https://github.com/nikstur/brr) - Make your Nix builds go brr
@@ -539,6 +545,8 @@
 
 ## QML 
 
+- [diinki/linux-antiquity](https://github.com/diinki/linux-antiquity) - A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.
+- [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
 - [XephyLon/immaterial-impulse](https://github.com/XephyLon/immaterial-impulse) - Illogical Impulse's Evil Twin. A Bloatility-first Setup
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [Yujonpradhananga/Persona-Quickshell](https://github.com/Yujonpradhananga/Persona-Quickshell) - Persona 3 Reload Quickshell theme for Hyprland
@@ -762,6 +770,7 @@
 
 ## TypeScript 
 
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV task management app.
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
