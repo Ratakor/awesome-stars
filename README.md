@@ -288,7 +288,7 @@
 - [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords a
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
@@ -582,7 +582,7 @@
 - [adeci/drv-thru](https://github.com/adeci/drv-thru) - p2p nix builds! "can I get uhhhhh"
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [roblillack/canoe](https://github.com/roblillack/canoe) - A stacking window manager for the River Wayland compositor, written in Rust
@@ -770,6 +770,8 @@
 
 ## TypeScript 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV task management app.
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
