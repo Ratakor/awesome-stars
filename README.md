@@ -357,6 +357,9 @@
 
 ## Nix 
 
+- [glide-browser/glide.nix](https://github.com/glide-browser/glide.nix) - 
+- [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
+- [willowispll/hjem-from-hm](https://github.com/willowispll/hjem-from-hm) - Use any home-manager module with hjem. Evaluate home-manager modules and map their generated config files into hjem's file system.
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [llakala/nixos](https://github.com/llakala/nixos) - My NixOS config
@@ -582,7 +585,7 @@
 - [adeci/drv-thru](https://github.com/adeci/drv-thru) - p2p nix builds! "can I get uhhhhh"
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [roblillack/canoe](https://github.com/roblillack/canoe) - A stacking window manager for the River Wayland compositor, written in Rust
