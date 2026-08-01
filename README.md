@@ -508,6 +508,7 @@
 
 ## Python 
 
+- [heyoeyo/niri_tweaks](https://github.com/heyoeyo/niri_tweaks) - Scripts for additional functionality when using niri (Wayland compositor)
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
