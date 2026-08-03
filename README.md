@@ -478,6 +478,7 @@
 
 ## Others 
 
+- [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [glaforge/deslopify](https://github.com/glaforge/deslopify) - A Gemini CLI skill to make text more genuine, natural, and free of AI tropes.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
@@ -550,6 +551,7 @@
 
 ## QML 
 
+- [zesis-shell/zesis](https://github.com/zesis-shell/zesis) - zesis - your new home
 - [diinki/linux-antiquity](https://github.com/diinki/linux-antiquity) - A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
 - [XephyLon/immaterial-impulse](https://github.com/XephyLon/immaterial-impulse) - Illogical Impulse's Evil Twin. A Bloatility-first Setup
@@ -572,6 +574,8 @@
 
 ## Rust 
 
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
+- [conall88/flyline-multishell](https://github.com/conall88/flyline-multishell) - Flyline-multishell: super charge your shell with intellisense style completions, syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) - A lightweight, feature rich Wayland idle manager written in Rust
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
@@ -819,6 +823,7 @@
 
 ## Zig 
 
+- [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
 - [mrusme/zpoweralertd](https://github.com/mrusme/zpoweralertd) - Zig rewrite and drop-in replacement of poweralertd (https://tty.fail/mrus/zpoweralertd)
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
 - [kewuaa/kwm](https://github.com/kewuaa/kwm) - A window manager based on River Wayland compositor
