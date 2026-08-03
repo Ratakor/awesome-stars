@@ -301,6 +301,7 @@
 
 ## cli 
 
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
@@ -902,6 +903,10 @@
 
 ## others 
 
+- [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
+- [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
+- [conall88/flyline-multishell](https://github.com/conall88/flyline-multishell) - Flyline-multishell: super charge your shell with intellisense style completions, syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
+- [zesis-shell/zesis](https://github.com/zesis-shell/zesis) - zesis - your new home
 - [Minersonic15/True-Beauty-hyprland](https://github.com/Minersonic15/True-Beauty-hyprland) - 
 - [heyoeyo/niri_tweaks](https://github.com/heyoeyo/niri_tweaks) - Scripts for additional functionality when using niri (Wayland compositor)
 - [glide-browser/glide.nix](https://github.com/glide-browser/glide.nix) - 
@@ -1404,6 +1409,7 @@
 
 ## rust 
 
+- [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
