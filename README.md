@@ -574,6 +574,7 @@
 
 ## Rust 
 
+- [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daliy new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
 - [conall88/flyline-multishell](https://github.com/conall88/flyline-multishell) - Flyline-multishell: super charge your shell with intellisense style completions, syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
