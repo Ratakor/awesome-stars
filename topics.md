@@ -719,6 +719,7 @@
 
 ## linux 
 
+- [zesis-shell/zesis](https://github.com/zesis-shell/zesis) - zesis - your new home
 - [iluaii/fwm](https://github.com/iluaii/fwm) - fwm is a Wayland compositor written in C where windows are physical objects — Box2D physics, a 10-desktop world with parallax, and Hyprland-style tiling. Legacy X11 version on the x11 branch.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
@@ -909,10 +910,10 @@
 
 ## others 
 
+- [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daliy new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
 - [conall88/flyline-multishell](https://github.com/conall88/flyline-multishell) - Flyline-multishell: super charge your shell with intellisense style completions, syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
-- [zesis-shell/zesis](https://github.com/zesis-shell/zesis) - zesis - your new home
 - [Minersonic15/True-Beauty-hyprland](https://github.com/Minersonic15/True-Beauty-hyprland) - 
 - [heyoeyo/niri_tweaks](https://github.com/heyoeyo/niri_tweaks) - Scripts for additional functionality when using niri (Wayland compositor)
 - [glide-browser/glide.nix](https://github.com/glide-browser/glide.nix) - 
