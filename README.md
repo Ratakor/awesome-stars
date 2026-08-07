@@ -358,6 +358,7 @@
 
 ## Nix 
 
+- [NotAShelf/Basix](https://github.com/NotAShelf/Basix) - Extensive Base16 and Base24 collection for Nix integration
 - [glide-browser/glide.nix](https://github.com/glide-browser/glide.nix) - 
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [willowispll/hjem-from-hm](https://github.com/willowispll/hjem-from-hm) - Use any home-manager module with hjem. Evaluate home-manager modules and map their generated config files into hjem's file system.
@@ -574,6 +575,7 @@
 
 ## Rust 
 
+- [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daliy new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [tinted-theming/tinty](https://github.com/tinted-theming/tinty) - A base16 and base24 color scheme manager
