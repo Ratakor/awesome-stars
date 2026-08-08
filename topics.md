@@ -912,7 +912,9 @@
 
 ## others 
 
-- [NotAShelf/Basix](https://github.com/NotAShelf/Basix) - Extensive Base16 and Base24 collection for Nix integration
+- [keisentraut/age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) - post-quantum safe encryption plugin for age encryption
+- [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
+- [NotAShelf/basix](https://github.com/NotAShelf/basix) - Extensive Base16 and Base24 collection for Nix integration
 - [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daliy new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
