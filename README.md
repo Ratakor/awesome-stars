@@ -418,7 +418,7 @@
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [silversquirl/zig-flake](https://github.com/silversquirl/zig-flake) - Simple Nix flake for Zig
 - [diniamo/niqs](https://github.com/diniamo/niqs) - My flake based NixOS configuration
 - [NotAShelf/nyxexprs](https://github.com/NotAShelf/nyxexprs) - Monorepo for sharing my most commonly used Nix expressions between projects.
@@ -751,7 +751,7 @@
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
-- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
