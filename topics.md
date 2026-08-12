@@ -290,7 +290,6 @@
 
 ## chatgpt 
 
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 
@@ -316,6 +315,7 @@
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 27 LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and general-purpose calculator
@@ -766,7 +766,8 @@
 
 ## llm 
 
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 27 LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
@@ -874,7 +875,6 @@
 
 ## nextjs 
 
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 
 ## nodejs 
@@ -896,7 +896,6 @@
 
 ## openai 
 
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 
 ## opengl 
@@ -912,6 +911,7 @@
 
 ## others 
 
+- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
 - [keisentraut/age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) - post-quantum safe encryption plugin for age encryption
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
 - [NotAShelf/basix](https://github.com/NotAShelf/basix) - Extensive Base16 and Base24 collection for Nix integration
@@ -1405,7 +1405,6 @@
 ## react 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 
 ## reactjs 
@@ -1414,6 +1413,7 @@
 
 ## reverse-engineering 
 
+- [GrammaTech/ddisasm](https://github.com/GrammaTech/ddisasm) - A fast and accurate disassembler
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 
 ## ruby 
@@ -1666,7 +1666,6 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
