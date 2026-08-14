@@ -251,6 +251,7 @@
 
 ## c 
 
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD, written in C99
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
@@ -312,7 +313,7 @@
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
 - [Wraient/curd](https://github.com/Wraient/curd) - Watch anime in cli with Anilist, MAL Integration and Discord RPC
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 27 LLM providers ｜ 批量字幕翻译，支持 120+ 语言
@@ -477,7 +478,7 @@
 - [lonerOrz/loneros-nixos](https://github.com/lonerOrz/loneros-nixos) - ❄️ My NixOS configuration
 - [budimanjojo/nix-config](https://github.com/budimanjojo/nix-config) - My infrastructure managed by Nix Flakes and Chezmoi are here
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and customizable user experience.
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, minimalist & easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal ef
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [ipetkov/dotfiles](https://github.com/ipetkov/dotfiles) - My personal dotfiles, managed with Nix and home-manager
@@ -721,7 +722,7 @@
 ## linux 
 
 - [zesis-shell/zesis](https://github.com/zesis-shell/zesis) - zesis - your new home
-- [iluaii/fwm](https://github.com/iluaii/fwm) - fwm is a Wayland compositor written in C where windows are physical objects — Box2D physics, a 10-desktop world with parallax, and Hyprland-style tiling. Legacy X11 version on the x11 branch.
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
@@ -911,6 +912,7 @@
 
 ## others 
 
+- [Darkkal44/Bruteon](https://github.com/Darkkal44/Bruteon) - Underwork~
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
 - [keisentraut/age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) - post-quantum safe encryption plugin for age encryption
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
@@ -1308,7 +1310,7 @@
 
 ## physics 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - fwm is a Wayland compositor written in C where windows are physical objects — Box2D physics, a 10-desktop world with parallax, and Hyprland-style tiling. Legacy X11 version on the x11 branch.
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 
 ## pixel-art 
@@ -1527,7 +1529,7 @@
 
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Yazelix/nova](https://github.com/Yazelix/nova) - Yazelix Nova is a Nix-packaged terminal workspace built from focused first-party components, including Mars, Nova Zellij, Nova Helix, Yazi, Nushell, Ratconfig, popups, status widgets, cursors, and Ani
@@ -1574,7 +1576,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
@@ -1632,7 +1634,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
 - [Aleksanaa/peak](https://github.com/Aleksanaa/peak) - An Acme-inspired Terminal Text Editor | Acme 风味命令行编辑器
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
@@ -1652,6 +1654,7 @@
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [crocidb/bulletty](https://github.com/crocidb/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, minimalist & easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal ef
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [rjarry/aerc](https://github.com/rjarry/aerc) - Read-only mirror of https://git.sr.ht/~rjarry/aerc. This repository does not accept pull requests. Please send contributions to https://lists.sr.ht/~rjarry/aerc-devel.
