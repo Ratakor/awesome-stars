@@ -63,7 +63,7 @@
 
 ## C 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C where windows are physical objects — Box2D rigid-body physics, free rotation, wobbly windows, a 10-desktop parallax world, Hyprland-style tiling, and an audio visualiser window
+- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
 - [ItsLemmy/swash](https://github.com/ItsLemmy/swash) - Swash is a fast screenshot annotator and lightweight image editor for Linux.
 - [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
 - [pound-emu/ballistic](https://github.com/pound-emu/ballistic) - The Ballistic JIT Engine: On track to become the worlds fastest ARM recompiler.
@@ -266,7 +266,6 @@
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
-- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [j-c-m/xkcd-password-generator](https://github.com/j-c-m/xkcd-password-generator) - An xkcd inspired password generator
 - [divestedcg/Brace](https://github.com/divestedcg/Brace) - Offers a wide range of opinionated settings that prioritize privacy, security, and usability for a curated set of Linux programs.
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
@@ -361,6 +360,7 @@
 
 ## Nix 
 
+- [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - NixOS Dotfiles
 - [unnamed-systems/nixsecauditor](https://github.com/unnamed-systems/nixsecauditor) - Extensible rule-based static security auditor for NixOS configurations with multiple reporting outputs  [maintainer=@yunfachi]
 - [NotAShelf/basix](https://github.com/NotAShelf/basix) - Extensive Base16 and Base24 collection for Nix integration
 - [glide-browser/glide.nix](https://github.com/glide-browser/glide.nix) - 
@@ -654,6 +654,7 @@
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
+- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [buyukakyuz/corroded](https://github.com/buyukakyuz/corroded) - Illegal rust
 - [buyukakyuz/rustmm](https://github.com/buyukakyuz/rustmm) - Rust without the borrow checker
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
@@ -715,7 +716,7 @@
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [NotAShelf/stash](https://github.com/NotAShelf/stash) - Wayland clipboard "manager" with fast persistent history and multi-media support
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
