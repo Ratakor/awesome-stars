@@ -917,6 +917,8 @@
 
 ## others 
 
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - Wayland compositor with scrolling and dwindle layout
+- [basarsubasi/simplefitnessapp](https://github.com/basarsubasi/simplefitnessapp) - Repository for FOSS fitness tracking app Simple.
 - [0xbbuddha/dotfiles_nothing_os](https://github.com/0xbbuddha/dotfiles_nothing_os) - 
 - [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - NixOS Dotfiles
 - [Darkkal44/Bruteon](https://github.com/Darkkal44/Bruteon) - Underwork~
