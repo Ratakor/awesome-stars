@@ -192,7 +192,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords a
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [celenityy/better-cromite](https://github.com/celenityy/better-cromite) - My recommendations for the ultimate configuration of the Cromite Browser :)
