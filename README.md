@@ -367,7 +367,6 @@
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [willowispll/hjem-from-hm](https://github.com/willowispll/hjem-from-hm) - Use any home-manager module with hjem. Evaluate home-manager modules and map their generated config files into hjem's file system.
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [llakala/lladios](https://github.com/llakala/lladios) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
 - [adeci/root](https://github.com/adeci/root) - Everything I run, declared in Nix: systems, packages, services, and networking.
@@ -418,7 +417,6 @@
 - [Henry-Hiles/nixos](https://github.com/Henry-Hiles/nixos) - My NixOS Dotfiles for my laptop and desktop. Mirror of https://git.federated.nexus/Henry-Hiles/nixos
 - [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
-- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
 - [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
@@ -517,6 +515,7 @@
 
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [heyoeyo/niri_tweaks](https://github.com/heyoeyo/niri_tweaks) - Scripts for additional functionality when using niri (Wayland compositor)
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
