@@ -400,7 +400,7 @@
 
 ## computer-vision 
 
-- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
 
 ## config 
 
@@ -424,7 +424,7 @@
 
 ## deep-learning 
 
-- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
 
 ## deployment 
 
@@ -604,7 +604,7 @@
 
 ## gui 
 
-- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 
@@ -917,7 +917,7 @@
 
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
-- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - Wayland compositor with scrolling and dwindle layout
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 - [basarsubasi/simplefitnessapp](https://github.com/basarsubasi/simplefitnessapp) - Repository for FOSS fitness tracking app Simple.
 - [0xbbuddha/dotfiles_nothing_os](https://github.com/0xbbuddha/dotfiles_nothing_os) - 
 - [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - NixOS Dotfiles
@@ -1452,7 +1452,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [Userwithaname/mellow](https://github.com/Userwithaname/mellow) - Distraction-free music listening
-- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
 - [manic-systems/nixos-core](https://github.com/manic-systems/nixos-core) - Core NixOS utilities in safe, portable Rust for NixOS and friends
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
