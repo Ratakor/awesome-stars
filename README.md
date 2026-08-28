@@ -283,9 +283,10 @@
 
 ## Kotlin 
 
+- [BenzeneOS/Squatter](https://github.com/BenzeneOS/Squatter) - Pixel Camera gallery redirector
 - [jeiel85/markleaf-android](https://github.com/jeiel85/markleaf-android) - A lightweight, local-first Markdown note app for Android.
 - [tristinbaker/IdleFantasy](https://github.com/tristinbaker/IdleFantasy) - Fantasy Inspired Idle Skilling Game
-- [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Mirror of https://codeberg.org/iamlooker/kenko
+- [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Moved to https://codeberg.org/iamlooker/kenko
 - [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -580,6 +581,7 @@
 
 ## Rust 
 
+- [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
