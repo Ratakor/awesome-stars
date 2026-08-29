@@ -361,6 +361,7 @@
 
 ## Nix 
 
+- [Guno327/pkgs](https://github.com/Guno327/pkgs) - Repo of all of my custom pkg flakes
 - [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - NixOS Dotfiles
 - [unnamed-systems/nixsecauditor](https://github.com/unnamed-systems/nixsecauditor) - Extensible rule-based static security auditor for NixOS configurations with multiple reporting outputs  [maintainer=@yunfachi]
 - [NotAShelf/basix](https://github.com/NotAShelf/basix) - Extensive Base16 and Base24 collection for Nix integration
@@ -439,7 +440,7 @@
 - [outfoxxed/impurity.nix](https://github.com/outfoxxed/impurity.nix) - Impure symlinking in your nixos configuration
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, minimalist & easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal ef
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist, modular & easily customizable setup, heavily focused on TUIs. It provides a structured way to manage your system configuration and
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
@@ -767,7 +768,7 @@
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
-- [Michael-Sebero/Algiz-Linux](https://github.com/Michael-Sebero/Algiz-Linux) - Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux.
+- [Michael-Sebero/ULU](https://github.com/Michael-Sebero/ULU) - Universal Linux Upgrade: this script increases system performance and security for Linux.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [vdawg-git/fantasy-rice](https://github.com/vdawg-git/fantasy-rice) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
