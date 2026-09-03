@@ -914,6 +914,7 @@
 
 ## others 
 
+- [amaanq/teapot](https://github.com/amaanq/teapot) - A privacy-focused Twitter/X frontend written in Rust
 - [Guno327/pkgs](https://github.com/Guno327/pkgs) - Repo of all of my custom pkg flakes
 - [BenzeneOS/Squatter](https://github.com/BenzeneOS/Squatter) - Pixel Camera gallery redirector
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
@@ -1167,7 +1168,6 @@
 - [hooss-only/dotfiles-minecraft-style](https://github.com/hooss-only/dotfiles-minecraft-style) - Fan-made minecraft style ricing dotfile
 - [lf-/flakey-profile](https://github.com/lf-/flakey-profile) - Declarative profiles with nix flakes
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
-- [viperML/noshell](https://github.com/viperML/noshell) - User-configurable login shell
 - [NotAShelf/stash](https://github.com/NotAShelf/stash) - Wayland clipboard "manager" with fast persistent history and multi-media support
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
@@ -1533,7 +1533,6 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
 ## server 
