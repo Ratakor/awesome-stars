@@ -101,7 +101,6 @@
 - [Gerg-L/suckless](https://github.com/Gerg-L/suckless) - 
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [Rubo3/wio](https://github.com/Rubo3/wio) - Wayland compositor similar to Plan 9's rio (mirror)
-- [viperML/noshell](https://github.com/viperML/noshell) - User-configurable login shell
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -582,6 +581,7 @@
 
 ## Rust 
 
+- [amaanq/teapot](https://github.com/amaanq/teapot) - A privacy-focused Twitter/X frontend written in Rust
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
