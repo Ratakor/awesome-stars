@@ -360,6 +360,7 @@
 
 ## Nix 
 
+- [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [Guno327/pkgs](https://github.com/Guno327/pkgs) - Repo of all of my custom pkg flakes
 - [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - NixOS Dotfiles
 - [unnamed-systems/nixsecauditor](https://github.com/unnamed-systems/nixsecauditor) - Extensible rule-based static security auditor for NixOS configurations with multiple reporting outputs  [maintainer=@yunfachi]
