@@ -914,6 +914,7 @@
 
 ## others 
 
+- [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [amaanq/teapot](https://github.com/amaanq/teapot) - A privacy-focused Twitter/X frontend written in Rust
 - [Guno327/pkgs](https://github.com/Guno327/pkgs) - Repo of all of my custom pkg flakes
 - [BenzeneOS/Squatter](https://github.com/BenzeneOS/Squatter) - Pixel Camera gallery redirector
