@@ -471,7 +471,7 @@
 - [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration for multiple hosts.
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
-- [BirdeeHub/nix-wrapper-modules](https://github.com/BirdeeHub/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!
+- [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
