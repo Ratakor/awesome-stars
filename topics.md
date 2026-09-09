@@ -390,7 +390,7 @@
 - [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
 - [nlsandler/writing-a-c-compiler-tests](https://github.com/nlsandler/writing-a-c-compiler-tests) - Test cases for Writing a C Compiler
 - [Vexu/toy-lang](https://github.com/Vexu/toy-lang) - Toy language for experimentation and fun.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -416,6 +416,7 @@
 
 ## csharp 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 ## database 
@@ -512,7 +513,7 @@
 ## emulator 
 
 - [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
-- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
+- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - PlayStation 1 emulator
 
 ## firefox 
 
@@ -578,6 +579,7 @@
 
 ## go 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
@@ -655,6 +657,7 @@
 
 ## java 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [zig-java/jaz](https://github.com/zig-java/jaz) - A JVM implementation in Zig!
 - [videolan/dav1d](https://github.com/videolan/dav1d) - A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -686,6 +689,7 @@
 
 ## kotlin 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [jeiel85/markleaf-android](https://github.com/jeiel85/markleaf-android) - A lightweight, local-first Markdown note app for Android.
 - [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Moved to https://codeberg.org/iamlooker/kenko
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -882,6 +886,7 @@
 
 ## nodejs 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -914,6 +919,8 @@
 
 ## others 
 
+- [kenn-io/kata](https://github.com/kenn-io/kata) - Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
+- [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) - 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [amaanq/teapot](https://github.com/amaanq/teapot) - A privacy-focused Twitter/X frontend written in Rust
 - [Guno327/pkgs](https://github.com/Guno327/pkgs) - Repo of all of my custom pkg flakes
@@ -1367,7 +1374,7 @@
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
 - [Vexu/toy-lang](https://github.com/Vexu/toy-lang) - Toy language for experimentation and fun.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
@@ -1382,6 +1389,7 @@
 
 ## python 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [d-002/cpu](https://github.com/d-002/cpu) - Utilities and files for Minecraft computers
 - [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique) - MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway
@@ -1437,6 +1445,7 @@
 
 ## rust 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
@@ -1792,7 +1801,7 @@
 - [mrusme/zpoweralertd](https://github.com/mrusme/zpoweralertd) - Zig rewrite and drop-in replacement of poweralertd (https://tty.fail/mrus/zpoweralertd)
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
-- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
+- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - PlayStation 1 emulator
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - Full-stack web framework for Zig. HTML syntax within Zig code, just like JSX but for Zig!
