@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
 - [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 - [GrammaTech/ddisasm](https://github.com/GrammaTech/ddisasm) - A fast and accurate disassembler
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
@@ -209,6 +210,7 @@
 
 ## Go 
 
+- [kenn-io/kata](https://github.com/kenn-io/kata) - Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
@@ -301,7 +303,7 @@
 
 ## Lean 
 
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets with a minimal runtime.
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
 
 ## Lua 
 
@@ -483,6 +485,7 @@
 
 ## Others 
 
+- [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) - 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [Darkkal44/Bruteon](https://github.com/Darkkal44/Bruteon) - Underwork~
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [glaforge/deslopify](https://github.com/glaforge/deslopify) - A Gemini CLI skill to make text more genuine, natural, and free of AI tropes.
@@ -854,7 +857,7 @@
 - [external-mirrors/phoenix](https://github.com/external-mirrors/phoenix) - 
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [theMackabu/ink](https://github.com/theMackabu/ink) - multipurpose markdown viewer
-- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - Experimental PlayStation 1 emulator
+- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - PlayStation 1 emulator
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [DonIsaac/smart-pointers](https://github.com/DonIsaac/smart-pointers) - A library of smart pointers for Zig
