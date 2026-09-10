@@ -742,6 +742,7 @@
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [knurling-rs/defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems
+- [jamii/focus](https://github.com/jamii/focus) - Minimalist text editor
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
@@ -902,7 +903,6 @@
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 - [alimpfard/zigline](https://github.com/alimpfard/zigline) - Port of LibLine to Zig
 - [Vexu/toy-lang](https://github.com/Vexu/toy-lang) - Toy language for experimentation and fun.
-- [jamii/focus](https://github.com/jamii/focus) - Minimalist text editor
 - [Hejsil/dipm](https://github.com/Hejsil/dipm) - An alternative to `curl | sh`
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
 - [tr1ckydev/chameleon](https://github.com/tr1ckydev/chameleon) - 🦎 Terminal string styling for zig.
