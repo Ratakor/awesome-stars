@@ -364,7 +364,7 @@
 
 - [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [Guno327/pkgs](https://github.com/Guno327/pkgs) - Repo of all of my custom pkg flakes
-- [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - NixOS Dotfiles
+- [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - My personal dendritic NixOS dotfiles, feel free to take all u need.
 - [unnamed-systems/nixsecauditor](https://github.com/unnamed-systems/nixsecauditor) - Extensible rule-based static security auditor for NixOS configurations with multiple reporting outputs  [maintainer=@yunfachi]
 - [NotAShelf/basix](https://github.com/NotAShelf/basix) - Extensive Base16 and Base24 collection for Nix integration
 - [glide-browser/glide.nix](https://github.com/glide-browser/glide.nix) - 
@@ -672,7 +672,6 @@
 - [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
-- [ardos-os/shift](https://github.com/ardos-os/shift) - Manages display server sessions with smooth, GPU-driven transitions — a GUI-first replacement for TTYs.
 - [ISibboI/evalexpr](https://github.com/ISibboI/evalexpr) - A powerful expression evaluation crate 🦀.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
