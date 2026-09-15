@@ -220,7 +220,7 @@
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [Kronark/Node-Compiler-Prototype-Public](https://github.com/Kronark/Node-Compiler-Prototype-Public) - 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
@@ -379,7 +379,7 @@
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
 - [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration for multiple hosts.
-- [Michael-C-Buckley/nixos](https://github.com/Michael-C-Buckley/nixos) - My primary NixOS system configurations
+- [Michael-C-Buckley/nixos-legacy](https://github.com/Michael-C-Buckley/nixos-legacy) - My primary NixOS system configurations
 - [amaanq/helium-flake](https://github.com/amaanq/helium-flake) - Nix flake for the Helium browser
 - [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
@@ -407,7 +407,6 @@
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
-- [mbrock/filnix](https://github.com/mbrock/filnix) - Fil-C as a Nix C/C++ toolchain and cross platform
 - [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
@@ -527,7 +526,6 @@
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [dap-mux/dap-mux](https://github.com/dap-mux/dap-mux) - DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures.
-- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [nikstur/brr](https://github.com/nikstur/brr) - Make your Nix builds go brr
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -535,6 +533,7 @@
 - [althonos/ffpb](https://github.com/althonos/ffpb) - A progress bar for ffmpeg. Yay !
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [kiviktnm/decman](https://github.com/kiviktnm/decman) - Declarative package & configuration manager for Arch Linux.
+- [mbrock/filnix](https://github.com/mbrock/filnix) - Fil-C as a Nix C/C++ toolchain and cross platform
 - [NotAShelf/flipoff](https://github.com/NotAShelf/flipoff) - Turn off your computer the only viable way: by flipping it off
 - [flozz/rivalcfg](https://github.com/flozz/rivalcfg) - CLI tool and Python library to configure SteelSeries gaming mice
 - [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
@@ -624,6 +623,7 @@
 - [Amanieu/corosensei](https://github.com/Amanieu/corosensei) - A fast and safe implementation of stackful coroutines in Rust
 - [fprasx/cargo-unfmt](https://github.com/fprasx/cargo-unfmt) - unformat code into perfect blocks
 - [manic-systems/tack](https://github.com/manic-systems/tack) - flake-like toml nix pins, lazily fetched and transformed
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
 - [manic-systems/npr](https://github.com/manic-systems/npr) - A pull request tracker for Nixpkgs
 - [manic-systems/custos](https://github.com/manic-systems/custos) - A small and simple USB authorization daemon.
@@ -853,7 +853,7 @@
 - [rockorager/rush](https://github.com/rockorager/rush) - rockorager's user-friendly shell
 - [mrusme/zpoweralertd](https://github.com/mrusme/zpoweralertd) - Zig rewrite and drop-in replacement of poweralertd (https://tty.fail/mrus/zpoweralertd)
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
-- [kewuaa/kwm](https://github.com/kewuaa/kwm) - A window manager based on River Wayland compositor
+- [kewuaa/kwm](https://github.com/kewuaa/kwm) - A window manager based on River Wayland compositor.
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
 - [external-mirrors/phoenix](https://github.com/external-mirrors/phoenix) - 
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
