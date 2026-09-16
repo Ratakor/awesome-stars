@@ -284,6 +284,7 @@
 
 ## Kotlin 
 
+- [tristinbaker/LifeOS-Public](https://github.com/tristinbaker/LifeOS-Public) - My personal Android all-in-one life enhancement app.
 - [BenzeneOS/Squatter](https://github.com/BenzeneOS/Squatter) - Pixel Camera gallery redirector
 - [jeiel85/markleaf-android](https://github.com/jeiel85/markleaf-android) - A lightweight, local-first Markdown note app for Android.
 - [tristinbaker/IdleFantasy](https://github.com/tristinbaker/IdleFantasy) - Fantasy Inspired Idle Skilling Game
