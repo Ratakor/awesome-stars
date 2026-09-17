@@ -1527,6 +1527,7 @@
 - [unnamed-systems/nixsecauditor](https://github.com/unnamed-systems/nixsecauditor) - Extensible rule-based static security auditor for NixOS configurations with multiple reporting outputs  [maintainer=@yunfachi]
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [struct/isoalloc](https://github.com/struct/isoalloc) - A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance
+- [Michael-Sebero/ULU](https://github.com/Michael-Sebero/ULU) - Universal Linux Upgrade: this script increases system performance and security for Linux.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [celenityy/Dove](https://github.com/celenityy/Dove) - Dove is a suite of configurations & advanced modifications for Mozilla Thunderbird, designed to put the user first - with a focus on privacy, security, freedom, & usability.
