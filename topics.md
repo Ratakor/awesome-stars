@@ -947,6 +947,7 @@
 
 ## others 
 
+- [n0-computer/pigeons](https://github.com/n0-computer/pigeons) - Carrier pigeons always find their way home.
 - [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [tristinbaker/LifeOS-Public](https://github.com/tristinbaker/LifeOS-Public) - My personal Android all-in-one life enhancement app.
 - [kenn-io/kata](https://github.com/kenn-io/kata) - Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
