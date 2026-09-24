@@ -719,6 +719,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - [Archived] Markdown preview server for AI coding agents.
+- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written in rust
 - [giacomopiccinini/judo](https://github.com/giacomopiccinini/judo) - Multi-database TUI and CLI for ToDo lists
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
@@ -876,7 +877,6 @@
 - [mrusme/whats](https://github.com/mrusme/whats) - Command line tool for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts` (https://tty.fail/mrus/whats)
 - [sackosoft/zig-skiplist](https://github.com/sackosoft/zig-skiplist) - An implementation of the Skiplist data structure in Zig.
 - [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
-- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written zig
 - [jmbaur/mixos](https://github.com/jmbaur/mixos) - MixOS, a Minimal Nix OS
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [p-rosit/irc](https://github.com/p-rosit/irc) - Zig intrusive reference counted slice
