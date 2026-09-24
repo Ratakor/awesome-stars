@@ -1171,7 +1171,7 @@
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - [Archived] Markdown preview server for AI coding agents.
 - [j-c-m/xkcd-password-generator](https://github.com/j-c-m/xkcd-password-generator) - An xkcd inspired password generator
-- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written zig
+- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written in rust
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [matiix310/intra-tweaker](https://github.com/matiix310/intra-tweaker) - A set of tools to make the intra better
