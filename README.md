@@ -266,6 +266,7 @@
 
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
+- [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!
 - [Spithskia/Shiru-Extensions](https://github.com/Spithskia/Shiru-Extensions) - Extension repository for Shiru, Provided by the Community
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [Lyro1/Netiquette-Mail-Corrector](https://github.com/Lyro1/Netiquette-Mail-Corrector) - This website allows you to verify that your mail is compliant with the ACU's Netiquette.
@@ -384,7 +385,7 @@
 - [sotormd/coffee](https://github.com/sotormd/coffee) - A very minimal openbox configuration
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
-- [sotormd/nixos](https://github.com/sotormd/nixos) - NixOS configuration for multiple hosts.
+- [sotormd/nixos](https://github.com/sotormd/nixos) - Modular NixOS configuration for multiple hosts, with ZFS, Impermanence, MicroVMs, WireGuard, bootstrap images, bespoke CLI, ...
 - [Michael-C-Buckley/nixos-legacy](https://github.com/Michael-C-Buckley/nixos-legacy) - My primary NixOS system configurations
 - [amaanq/helium-flake](https://github.com/amaanq/helium-flake) - Nix flake for the Helium browser
 - [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
@@ -807,7 +808,6 @@
 
 ## Svelte 
 
-- [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!
 - [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
 
 ## Swift 
