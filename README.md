@@ -634,7 +634,7 @@
 - [fprasx/cargo-unfmt](https://github.com/fprasx/cargo-unfmt) - unformat code into perfect blocks
 - [manic-systems/tack](https://github.com/manic-systems/tack) - flake-like toml nix pins, lazily fetched and transformed
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
-- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
+- [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
 - [manic-systems/npr](https://github.com/manic-systems/npr) - A pull request tracker for Nixpkgs
 - [manic-systems/custos](https://github.com/manic-systems/custos) - A small and simple USB authorization daemon.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
