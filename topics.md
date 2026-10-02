@@ -545,6 +545,7 @@
 
 ## flutter 
 
+- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Daily diary & journaling app
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 
 ## font 
@@ -848,6 +849,7 @@
 
 ## markdown 
 
+- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Daily diary & journaling app
 - [jeiel85/markleaf-android](https://github.com/jeiel85/markleaf-android) - A lightweight, local-first Markdown note app for Android.
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
@@ -1382,6 +1384,7 @@
 
 ## privacy 
 
+- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Daily diary & journaling app
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
