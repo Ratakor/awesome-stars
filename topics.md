@@ -159,6 +159,7 @@
 - [web-assembly](#web-assembly)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
@@ -1837,6 +1838,10 @@
 - [aftermathlabs/llvm-msvc](https://github.com/aftermathlabs/llvm-msvc) - LLVM fork with explicit compatibility with MSVC 2022 features.
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+
+## windows-11 
+
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 ## youtube 
 
