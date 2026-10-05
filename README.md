@@ -253,7 +253,7 @@
 
 ## Haskell 
 
-- [ubugeeei-prod/tnix](https://github.com/ubugeeei-prod/tnix) - tnix (typed-nix) is gradual type system for nix
+- [ubugeeei-prod/tynix](https://github.com/ubugeeei-prod/tynix) - tynix (typed-nix) is gradual type system for nix
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
@@ -494,6 +494,7 @@
 
 ## Others 
 
+- [tolkonepiu/best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 - [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) - 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [Darkkal44/Bruteon](https://github.com/Darkkal44/Bruteon) - Underwork~
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
