@@ -961,6 +961,9 @@
 
 ## others 
 
+- [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
+- [con-f-use/veil](https://github.com/con-f-use/veil) - Simple education-only example for declarative secret side-loading with a NixOS module
+- [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [fxrdhan/lez](https://github.com/fxrdhan/lez) - A modern alternative to ls. Oh, and ofc it's faster than eza tbh.
 - [n0-computer/pigeons](https://github.com/n0-computer/pigeons) - Carrier pigeons always find their way home.
