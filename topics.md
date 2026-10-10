@@ -497,7 +497,7 @@
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [sotormd/nixos](https://github.com/sotormd/nixos) - Modular NixOS configuration for multiple hosts, with ZFS, Impermanence, MicroVMs, WireGuard, bootstrap images, bespoke CLI, ...
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
-- [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
+- [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
@@ -961,6 +961,7 @@
 
 ## others 
 
+- [Axthauvin/better-zeus](https://github.com/Axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
 - [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [con-f-use/veil](https://github.com/con-f-use/veil) - Simple education-only example for declarative secret side-loading with a NixOS module
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
