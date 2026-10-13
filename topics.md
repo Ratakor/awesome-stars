@@ -961,7 +961,7 @@
 
 ## others 
 
-- [Axthauvin/better-zeus](https://github.com/Axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
+- [axthauvin/better-zeus](https://github.com/axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
 - [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [con-f-use/veil](https://github.com/con-f-use/veil) - Simple education-only example for declarative secret side-loading with a NixOS module
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
