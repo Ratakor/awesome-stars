@@ -199,7 +199,7 @@
 
 ## Dart 
 
-- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Daily diary & journaling app
+- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Private diary & mood journal
 - [Dacraezy1/wayclicker](https://github.com/Dacraezy1/wayclicker) - A lightweight and efficient autoclicker built specifically for Wayland compositors on Linux
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 
@@ -230,7 +230,6 @@
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
-- [Kronark/Node-Compiler-Prototype-Public](https://github.com/Kronark/Node-Compiler-Prototype-Public) - 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
@@ -267,7 +266,7 @@
 
 ## JavaScript 
 
-- [Axthauvin/better-zeus](https://github.com/Axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
+- [axthauvin/better-zeus](https://github.com/axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
 - [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!
@@ -508,6 +507,7 @@
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [hanyu1774/helixgelion](https://github.com/hanyu1774/helixgelion) - A colorscheme for the Helix code editor using colors from Evangelion
 - [fabjan/zed-theme-acme](https://github.com/fabjan/zed-theme-acme) - 
+- [Kronark/Node-Compiler-Prototype-Public](https://github.com/Kronark/Node-Compiler-Prototype-Public) - 
 - [Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons](https://github.com/Fourchaux/ocaml-stdlib-containers-batteries-base-comparisons) - Core functions comparison
 - [kinale/awesome-linux-cpu-schedulers](https://github.com/kinale/awesome-linux-cpu-schedulers) - A curated list of CPU Schedulers for linux
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
