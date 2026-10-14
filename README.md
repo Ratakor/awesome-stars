@@ -64,7 +64,6 @@
 
 ## C 
 
-- [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
 - [ItsLemmy/swash](https://github.com/ItsLemmy/swash) - Swash is a fast screenshot annotator and lightweight image editor for Linux.
 - [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
@@ -604,6 +603,7 @@
 
 ## Rust 
 
+- [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [fxrdhan/lez](https://github.com/fxrdhan/lez) - A modern alternative to ls. Oh, and ofc it's faster than eza tbh.
 - [n0-computer/pigeons](https://github.com/n0-computer/pigeons) - Carrier pigeons always find their way home.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
