@@ -64,7 +64,7 @@
 
 ## C 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [ItsLemmy/swash](https://github.com/ItsLemmy/swash) - Swash is a fast screenshot annotator and lightweight image editor for Linux.
 - [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
 - [pound-emu/ballistic](https://github.com/pound-emu/ballistic) - The Ballistic JIT Engine: On track to become the worlds fastest ARM recompiler.
@@ -245,6 +245,7 @@
 
 ## HTML 
 
+- [JPTER78/pokesurvivor](https://github.com/JPTER78/pokesurvivor) - PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.
 - [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend on top of LLVM.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -603,6 +604,9 @@
 
 ## Rust 
 
+- [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
+- [rootbeer-org/rootbeer](https://github.com/rootbeer-org/rootbeer) - Deterministically manage your system using Lua!
+- [VirgileHenry/fggreeter](https://github.com/VirgileHenry/fggreeter) - A Linux Greeter where you play a fighting game while entering your session.
 - [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [fxrdhan/lez](https://github.com/fxrdhan/lez) - A modern alternative to ls. Oh, and ofc it's faster than eza tbh.
 - [n0-computer/pigeons](https://github.com/n0-computer/pigeons) - Carrier pigeons always find their way home.
@@ -836,7 +840,7 @@
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
 - [sometimesdigital/share-liked-songs](https://github.com/sometimesdigital/share-liked-songs) - Create a shareable copy of your Liked Songs playlist.
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
