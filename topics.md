@@ -174,14 +174,14 @@
 
 ## agents 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 
 ## ai 
 
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -263,7 +263,7 @@
 
 ## c 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [fuhsnn/slimcc](https://github.com/fuhsnn/slimcc) - C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD, written in C99
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
@@ -769,12 +769,12 @@
 ## linux 
 
 - [zesis-shell/zesis](https://github.com/zesis-shell/zesis) - zesis - your new home
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
@@ -838,7 +838,7 @@
 
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -961,6 +961,10 @@
 
 ## others 
 
+- [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
+- [rootbeer-org/rootbeer](https://github.com/rootbeer-org/rootbeer) - Deterministically manage your system using Lua!
+- [VirgileHenry/fggreeter](https://github.com/VirgileHenry/fggreeter) - A Linux Greeter where you play a fighting game while entering your session.
+- [JPTER78/pokesurvivor](https://github.com/JPTER78/pokesurvivor) - PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.
 - [axthauvin/better-zeus](https://github.com/axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
 - [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [con-f-use/veil](https://github.com/con-f-use/veil) - Simple education-only example for declarative secret side-loading with a NixOS module
@@ -1379,7 +1383,7 @@
 
 ## physics 
 
-- [iluaii/fwm](https://github.com/iluaii/fwm) - Wayland compositor in C/wlroots where windows are physical objects (real Box2D rigid bodies) — and a full desktop besides: ten desktops on one scrolling world, tiling or floating per desktop, launcher
+- [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 
 ## pixel-art 
@@ -1483,7 +1487,7 @@
 
 ## reactjs 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 
 ## reverse-engineering 
 
@@ -1510,7 +1514,7 @@
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) - NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
@@ -1657,7 +1661,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
@@ -1834,7 +1838,7 @@
 ## windows 
 
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
