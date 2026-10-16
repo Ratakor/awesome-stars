@@ -20,6 +20,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Just](#just)
@@ -76,7 +77,7 @@
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and general-purpose calculator
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
-- [faetalize/waytator](https://github.com/faetalize/waytator) - Wayland image annotation tool
+- [faetalize/waytator](https://github.com/faetalize/waytator) - Screenshots and video recording on wayland
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -257,6 +258,10 @@
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
+
+## Janet 
+
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 
 ## Java 
 
@@ -442,7 +447,6 @@
 - [NotAShelf/nyxexprs](https://github.com/NotAShelf/nyxexprs) - Monorepo for sharing my most commonly used Nix expressions between projects.
 - [fxzzi/NixOhEss](https://github.com/fxzzi/NixOhEss) - [mirror from gitlab] my personal nixos flake
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [lonerOrz/loneros-nixos](https://github.com/lonerOrz/loneros-nixos) - ❄️ My NixOS configuration
 - [budimanjojo/nix-config](https://github.com/budimanjojo/nix-config) - My infrastructure managed by Nix Flakes and Chezmoi are here
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
