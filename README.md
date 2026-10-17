@@ -26,7 +26,6 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
-- [Lean](#lean)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [MiniZinc](#minizinc)
@@ -257,6 +256,7 @@
 - [ubugeeei-prod/tynix](https://github.com/ubugeeei-prod/tynix) - tynix (typed-nix) is gradual type system for nix
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
+- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## Janet 
@@ -317,10 +317,6 @@
 ## LLVM 
 
 - [aftermathlabs/llvm-msvc](https://github.com/aftermathlabs/llvm-msvc) - LLVM fork with explicit compatibility with MSVC 2022 features.
-
-## Lean 
-
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
 
 ## Lua 
 
@@ -608,6 +604,7 @@
 
 ## Rust 
 
+- [Cyberus-Linux/nixpkgs-inventory](https://github.com/Cyberus-Linux/nixpkgs-inventory) - Find the nixpkgs attributes in your NixOS or package closure!
 - [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
 - [rootbeer-org/rootbeer](https://github.com/rootbeer-org/rootbeer) - Deterministically manage your system using Lua!
 - [VirgileHenry/fggreeter](https://github.com/VirgileHenry/fggreeter) - A Linux Greeter where you play a fighting game while entering your session.
@@ -910,7 +907,7 @@
 - [xcaeser/zli](https://github.com/xcaeser/zli) - 📟 Build ergonomic, high-performance command-line tools (CLI) with zig.
 - [foxnne/scoop-ems](https://github.com/foxnne/scoop-ems) - Scoop some dirt and find some treasure!
 - [foxnne/aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Application and plugin framework written in Zig
 - [fjebaker/nkt](https://github.com/fjebaker/nkt) - Terminal note taking. Moved to sourcehut.
 - [aeronavery/zig-toml](https://github.com/aeronavery/zig-toml) - A TOML parser written in Zig
 - [pfgithub/zig3ds](https://github.com/pfgithub/zig3ds) - run zig on 3ds
