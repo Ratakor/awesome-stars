@@ -355,7 +355,7 @@
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -869,7 +869,7 @@
 ## mcp 
 
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 
@@ -1410,7 +1410,7 @@
 
 ## productivity 
 
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [fjebaker/nkt](https://github.com/fjebaker/nkt) - Terminal note taking. Moved to sourcehut.
@@ -1436,7 +1436,7 @@
 
 ## project-management 
 
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 
 ## prompt-engineering 
 
@@ -1540,7 +1540,7 @@
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
@@ -1680,7 +1680,7 @@
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [buyukakyuz/install-nothing](https://github.com/buyukakyuz/install-nothing) - A terminal application that simulates installing things but doesn't actually install anything
 - [epic-64/binbreak](https://github.com/epic-64/binbreak) - a terminal based binary number guessing game
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -1733,7 +1733,7 @@
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
