@@ -604,6 +604,7 @@
 
 ## Rust 
 
+- [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
 - [Cyberus-Linux/nixpkgs-inventory](https://github.com/Cyberus-Linux/nixpkgs-inventory) - Find the nixpkgs attributes in your NixOS or package closure!
 - [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
 - [rootbeer-org/rootbeer](https://github.com/rootbeer-org/rootbeer) - Deterministically manage your system using Lua!
@@ -683,7 +684,7 @@
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [Yazelix/nova](https://github.com/Yazelix/nova) - Yazelix Nova is a Nix-packaged terminal workspace built from focused first-party components, including Mars, Nova Zellij, Nova Helix, Yazi, Nushell, Ratconfig, popups, status widgets, cursors, and Ani
+- [Yazelix/nova](https://github.com/Yazelix/nova) - Yazelix Nova is a Nix-packaged terminal workspace built from focused first-party components, including Nova Rio, Nova Zellij, Nova Helix, Yazi, Nushell, Ratconfig, popups, status widgets, cursors, and
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue-light filter for Hyprland, Niri, and everything Wayland
 - [paulfariello/aparte](https://github.com/paulfariello/aparte) - Simple XMPP console client written in Rust and inspired by Profanity.
@@ -801,7 +802,7 @@
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
 - [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
 - [john-h-k/helix-zsh](https://github.com/john-h-k/helix-zsh) - Helix bindings for zsh
-- [Michael-Sebero/ULU](https://github.com/Michael-Sebero/ULU) - Universal Linux Upgrade: this script increases system performance and security for Linux.
+- [Michael-Sebero/ULU](https://github.com/Michael-Sebero/ULU) - Universal Linux Upgrade: this post-installation script increases system performance and security.
 - [vdawg-git/fantasy-rice](https://github.com/vdawg-git/fantasy-rice) - 
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
@@ -841,7 +842,7 @@
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
 - [sometimesdigital/share-liked-songs](https://github.com/sometimesdigital/share-liked-songs) - Create a shareable copy of your Liked Songs playlist.
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
