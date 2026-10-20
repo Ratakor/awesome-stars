@@ -495,7 +495,7 @@
 - [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [sotormd/nixos](https://github.com/sotormd/nixos) - Modular NixOS configuration for multiple hosts, with ZFS, Impermanence, MicroVMs, WireGuard, bootstrap images, bespoke CLI, ...
-- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
+- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS flake for all my hosts, built with Denix
 - [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [nix-community/nix-wrapper-modules](https://github.com/nix-community/nix-wrapper-modules) - Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww + bspwm rice c:
@@ -776,6 +776,7 @@
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
 - [dubeyKartikay/lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux
+- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS flake for all my hosts, built with Denix
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [AvengeMedia/dgop](https://github.com/AvengeMedia/dgop) - API & CLI for System & Process  Monitoring
@@ -871,7 +872,7 @@
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
 - [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
+- [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 
 ## minecraft 
 
@@ -1547,7 +1548,7 @@
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [bycruz/constime](https://github.com/bycruz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
+- [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [vimpunk/cratetorrent](https://github.com/vimpunk/cratetorrent) - A BitTorrent V1 engine library for Rust (and currently Linux)
