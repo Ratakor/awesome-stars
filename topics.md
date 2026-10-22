@@ -962,6 +962,8 @@
 
 ## others 
 
+- [psyclyx/nixboy](https://github.com/psyclyx/nixboy) - Game Boy emulator in nix
+- [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) - A compact monospace neo-grotesque font designed for developers (and adventurers).
 - [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
 - [Cyberus-Linux/nixpkgs-inventory](https://github.com/Cyberus-Linux/nixpkgs-inventory) - Find the nixpkgs attributes in your NixOS or package closure!
 - [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
@@ -985,7 +987,7 @@
 - [BenzeneOS/Squatter](https://github.com/BenzeneOS/Squatter) - Pixel Camera gallery redirector
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
-- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - Umbriel is a Wayland compositor designed for daily use. It supports scrolling, dwindle, and master layouts, independent output workspaces, window rules, blur, shadows, and fluid animations.
 - [basarsubasi/simplefitnessapp](https://github.com/basarsubasi/simplefitnessapp) - Repository for FOSS fitness tracking app Simple.
 - [0xbbuddha/dotfiles_nothing_os](https://github.com/0xbbuddha/dotfiles_nothing_os) - 
 - [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - My personal dendritic NixOS dotfiles, feel free to take all u need.
@@ -1298,7 +1300,7 @@
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [uint23/sxwm](https://github.com/uint23/sxwm) - a simple feature-rich dynamic tiling window manager
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
-- [eusi/Examiner-SoD-](https://github.com/eusi/Examiner-SoD-) - Fan update for WoW Classic SoD
+- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - Fan update for WoW
 - [cdrg/poe2filtertts](https://github.com/cdrg/poe2filtertts) - Text-To-Speech sound file packs for Path of Exile 2 item filters, multiple voice options
 - [Snocean/ProEnchanters](https://github.com/Snocean/ProEnchanters) - Pro Enchanters for WoW Classic
 - [PathOfBuildingCommunity/PathOfBuilding-PoE2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) - 
@@ -1866,6 +1868,7 @@
 
 ## zig 
 
+- [psyclyx/fix](https://github.com/psyclyx/fix) - Fast nIX language evaluator
 - [mrusme/zpoweralertd](https://github.com/mrusme/zpoweralertd) - Zig rewrite and drop-in replacement of poweralertd (https://tty.fail/mrus/zpoweralertd)
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - Markdown toolset in Zig ⚡
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
