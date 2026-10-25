@@ -990,7 +990,7 @@
 - [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - Umbriel is a Wayland compositor designed for daily use, with scrolling, dwindle, master, and floating layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
 - [basarsubasi/simplefitnessapp](https://github.com/basarsubasi/simplefitnessapp) - Repository for FOSS fitness tracking app Simple.
 - [0xbbuddha/dotfiles_nothing_os](https://github.com/0xbbuddha/dotfiles_nothing_os) - 
-- [eConnah/nix-dots](https://github.com/eConnah/nix-dots) - My personal dendritic NixOS dotfiles, feel free to take all u need.
+- [notaclementine/nix-dots](https://github.com/notaclementine/nix-dots) - My personal dendritic NixOS dotfiles, feel free to take all u need.
 - [Darkkal44/Bruteon](https://github.com/Darkkal44/Bruteon) - Underwork~
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
 - [keisentraut/age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) - post-quantum safe encryption plugin for age encryption
