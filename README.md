@@ -152,7 +152,7 @@
 ## C++ 
 
 - [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon) - Tachyon, IPC/RPC primitive.
-- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - Umbriel is a Wayland compositor designed for daily use, with scrolling, dwindle, master, and floating layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - A Wayland compositor designed for daily use, with scrolling, dwindle, master, and stacking layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
 - [GrammaTech/ddisasm](https://github.com/GrammaTech/ddisasm) - A fast and accurate disassembler
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -247,6 +247,7 @@
 
 ## HTML 
 
+- [JPTER78/pokesurvivor](https://github.com/JPTER78/pokesurvivor) - PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.
 - [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend on top of LLVM.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -272,7 +273,6 @@
 
 ## JavaScript 
 
-- [JPTER78/pokesurvivor](https://github.com/JPTER78/pokesurvivor) - PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.
 - [axthauvin/better-zeus](https://github.com/axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) - Stay comfy while listening to music
