@@ -417,7 +417,7 @@
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
 - [iynaix/dotfiles](https://github.com/iynaix/dotfiles) - I use NixOS btw.
-- [toastal/nixtamal](https://github.com/toastal/nixtamal) - NOT a mirror of Nixtamal; that would undermine the purpose of the tool—which is to open up previously-unsupported fetchers & promote self-hosting. Visit the offical site to get the Darcs repository.
+- [toastal/nixtamal](https://github.com/toastal/nixtamal) - NOT a mirror of Nixtamal but a signpost to the official source code. Visit the official site to get the Darcs repository.
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
