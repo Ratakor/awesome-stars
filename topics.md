@@ -983,7 +983,6 @@
 - [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
 - [rootbeer-org/rootbeer](https://github.com/rootbeer-org/rootbeer) - Deterministically manage your system using Lua!
 - [VirgileHenry/fggreeter](https://github.com/VirgileHenry/fggreeter) - A Linux Greeter where you play a fighting game while entering your session.
-- [JPTER78/pokesurvivor](https://github.com/JPTER78/pokesurvivor) - PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.
 - [axthauvin/better-zeus](https://github.com/axthauvin/better-zeus) - Zeus sucks. So here is a better version, with a cool UI.
 - [mainmatter/migrating-c-to-rust](https://github.com/mainmatter/migrating-c-to-rust) - Learn how to migrate real-world C code to Rust.
 - [con-f-use/veil](https://github.com/con-f-use/veil) - Simple education-only example for declarative secret side-loading with a NixOS module
