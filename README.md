@@ -247,7 +247,6 @@
 
 ## HTML 
 
-- [JPTER78/pokesurvivor](https://github.com/JPTER78/pokesurvivor) - PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.
 - [isuckatcs/how-to-compile-your-language](https://github.com/isuckatcs/how-to-compile-your-language) - An introduction to language design through building a compiler frontend on top of LLVM.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
