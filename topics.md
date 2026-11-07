@@ -156,6 +156,7 @@
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [web-assembly](#web-assembly)
@@ -494,6 +495,7 @@
 
 ## docker 
 
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -631,6 +633,7 @@
 
 ## golang 
 
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
 - [Wraient/curd](https://github.com/Wraient/curd) - Watch anime in cli with Anilist, MAL Integration and Discord RPC
@@ -658,6 +661,7 @@
 
 ## hacktoberfest 
 
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
@@ -1223,7 +1227,6 @@
 - [thomascrha/resume](https://github.com/thomascrha/resume) - Anyone's personal resume pipeline; edit one markdown file and produce a release with a PDF and docx and publish the resulting HTML as a GitHub Page - powered by GitHub Actions.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [mrnossiom/wakatime-ls](https://github.com/mrnossiom/wakatime-ls) - A dead-simple language server around wakatime-cli to send code tracking heartbeats
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [AMNatty/wleave](https://github.com/AMNatty/wleave) - A Wayland-native logout script written in GTK4
 - [maxbrunet/automatic-timezoned](https://github.com/maxbrunet/automatic-timezoned) - A Linux daemon to automatically update the system timezone based on location
@@ -1830,6 +1833,11 @@
 
 - [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
+
+## vscode 
+
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 
 ## vue 
 
