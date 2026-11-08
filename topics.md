@@ -980,6 +980,7 @@
 
 ## others 
 
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 - [psyclyx/nixboy](https://github.com/psyclyx/nixboy) - Game Boy emulator in nix
 - [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) - A compact monospace neo-grotesque font designed for developers (and adventurers).
 - [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
