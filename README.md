@@ -388,6 +388,7 @@
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [willowispll/hjem-from-hm](https://github.com/willowispll/hjem-from-hm) - Use any home-manager module with hjem. Evaluate home-manager modules and map their generated config files into hjem's file system.
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [llakala/lladios](https://github.com/llakala/lladios) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
 - [adeci/root](https://github.com/adeci/root) - Everything I run, declared in Nix: systems, packages, services, and networking.
@@ -607,6 +608,7 @@
 
 ## Rust 
 
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 - [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
 - [Cyberus-Linux/nixpkgs-inventory](https://github.com/Cyberus-Linux/nixpkgs-inventory) - Find the nixpkgs attributes in your NixOS or package closure!
 - [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
@@ -631,7 +633,6 @@
 - [saltnpepper97/stasis](https://github.com/saltnpepper97/stasis) - A lightweight, feature rich Wayland idle manager written in Rust
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [thehuglet/germterm](https://github.com/thehuglet/germterm) - A high-performance terminal graphics library.
 - [airblast-dev/sinstr](https://github.com/airblast-dev/sinstr) - A tiny small string optimization library.
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
