@@ -37,11 +37,11 @@
 - [Odin](#odin)
 - [Others](#others)
 - [Perl](#perl)
-- [Prolog](#prolog)
 - [Python](#python)
 - [QML](#qml)
 - [Racket](#racket)
 - [RenderScript](#renderscript)
+- [Rocq Prover](#rocq-prover)
 - [Roff](#roff)
 - [Rust](#rust)
 - [Scheme](#scheme)
@@ -131,7 +131,6 @@
 - [luisbg/fs-construction-kit](https://github.com/luisbg/fs-construction-kit) - File System Construction Kit
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
-- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [Snaipe/Criterion](https://github.com/Snaipe/Criterion) - A cross-platform C and C++ unit testing framework for the 21st century
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
@@ -525,16 +524,13 @@
 - [NeverSinkDev/NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 - [cnlohr/assembly-notes](https://github.com/cnlohr/assembly-notes) - My cookbook for a guide to and notes on assembly lagnuage, inling, etc.
 - [noahvogt/chromium-patches](https://github.com/noahvogt/chromium-patches) - functional chromium patches
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [anars/blank-audio](https://github.com/anars/blank-audio) - Set of blank MP3 audio files
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
 ## Perl 
 
 - [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration.
-
-## Prolog 
-
-- [mbrock/filnix](https://github.com/mbrock/filnix) - Fil-C as a Nix C/C++ toolchain and cross platform
 
 ## Python 
 
@@ -602,13 +598,17 @@
 
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀
 
+## Rocq Prover 
+
+- [mbrock/filnix](https://github.com/mbrock/filnix) - Fil-C as a Nix C/C++ toolchain and cross platform
+
 ## Roff 
 
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 
 ## Rust 
 
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
 - [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
 - [Cyberus-Linux/nixpkgs-inventory](https://github.com/Cyberus-Linux/nixpkgs-inventory) - Find the nixpkgs attributes in your NixOS or package closure!
 - [gj1118/helix](https://github.com/gj1118/helix) - A post-modern modal text editor.
