@@ -162,6 +162,7 @@
 - [web](#web)
 - [web-assembly](#web-assembly)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [youtube](#youtube)
@@ -1864,6 +1865,10 @@
 ## website 
 
 - [Lyro1/Netiquette-Mail-Corrector](https://github.com/Lyro1/Netiquette-Mail-Corrector) - This website allows you to verify that your mail is compliant with the ACU's Netiquette.
+
+## whatsapp 
+
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 
 ## windows 
 
