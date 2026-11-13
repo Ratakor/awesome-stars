@@ -190,6 +190,7 @@
 
 ## Common Lisp 
 
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [aartaka/nyxt-config](https://github.com/aartaka/nyxt-config) - My configuration files for Nyxt browser.
 
@@ -387,7 +388,6 @@
 - [denful/import-tree](https://github.com/denful/import-tree) - Import all nix files in a directory tree.
 - [willowispll/hjem-from-hm](https://github.com/willowispll/hjem-from-hm) - Use any home-manager module with hjem. Evaluate home-manager modules and map their generated config files into hjem's file system.
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [llakala/lladios](https://github.com/llakala/lladios) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
 - [adeci/root](https://github.com/adeci/root) - Everything I run, declared in Nix: systems, packages, services, and networking.
@@ -404,7 +404,7 @@
 - [yunfachi/flake](https://github.com/yunfachi/flake) - My NixOS flake for all my hosts, built with Denix
 - [yunfachi/nix-osu](https://github.com/yunfachi/nix-osu) - Declarative configuration of osu!
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [fricklerhandwerk/module-sources](https://github.com/fricklerhandwerk/module-sources) - Module-level source references: declare locally, pin globally
 - [fricklerhandwerk/flake-inputs](https://github.com/fricklerhandwerk/flake-inputs) - A helper to use remote references from `flake.lock` in stable Nix.
 - [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
@@ -647,7 +647,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [mercury/nix-your-shell](https://github.com/mercury/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
-- [roblillack/canoe](https://github.com/roblillack/canoe) - A stacking window manager for the River Wayland compositor, written in Rust
+- [roblillack/canoe](https://github.com/roblillack/canoe) - A modern stacking window compositor with the classic Win 3.x look, written in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
