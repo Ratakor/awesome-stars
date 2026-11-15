@@ -362,7 +362,7 @@
 - [flozz/rivalcfg](https://github.com/flozz/rivalcfg) - CLI tool and Python library to configure SteelSeries gaming mice
 - [ValvePython/steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -654,6 +654,7 @@
 
 - [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 - [cdepillabout/nix-query-tree-viewer](https://github.com/cdepillabout/nix-query-tree-viewer) - GTK viewer for the output of `nix-store --query --tree`
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Application and plugin framework written in Zig
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 
@@ -727,7 +728,6 @@
 
 - [jeiel85/markleaf-android](https://github.com/jeiel85/markleaf-android) - A lightweight, local-first Markdown note app for Android.
 - [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Moved to https://codeberg.org/iamlooker/kenko
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 
 ## jquery 
 
@@ -912,7 +912,7 @@
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
@@ -1560,7 +1560,7 @@
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -1702,7 +1702,7 @@
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [Yazelix/nova](https://github.com/Yazelix/nova) - Yazelix Nova is a Nix-packaged terminal workspace built from focused first-party components, including Nova Rio, Nova Zellij, Nova Helix, Yazi, Nushell, Ratconfig, popups, status widgets, cursors, and
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
@@ -1755,7 +1755,7 @@
 - [NotAShelf/tuigreet](https://github.com/NotAShelf/tuigreet) - Stylish graphical console greeter for greetd, built with Ratatui
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
@@ -1895,7 +1895,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 
 ## zig 
 
