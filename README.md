@@ -308,7 +308,7 @@
 - [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) - A workout journal. Moved to https://codeberg.org/iamlooker/kenko
 - [tcoppex/stochastic-reminder](https://github.com/tcoppex/stochastic-reminder) - :mega: Random and fixed notification scheduling app for Android.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords a
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
@@ -345,7 +345,7 @@
 - [ArchWizardLesbian/ArchRail](https://github.com/ArchWizardLesbian/ArchRail) - A Funny little mod for a Funny little jester game :3
 - [Mil0Meg4/Resurgence](https://github.com/Mil0Meg4/Resurgence) - The vampire is in another mod!
 - [icyethics/Glue-For-Modpacks](https://github.com/icyethics/Glue-For-Modpacks) - Balatro Mod to add utilities that may make playing with many mods more enjoyable
-- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - Fan-Made Update of an Advanced Inspection Addon for World of Warcraft
+- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - An extensively modernized WoW character inspection addon.
 - [Snocean/ProEnchanters](https://github.com/Snocean/ProEnchanters) - Pro Enchanters for WoW Classic
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [PathOfBuildingCommunity/PathOfBuilding-PoE2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) - 
