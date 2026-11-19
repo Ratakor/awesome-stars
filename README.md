@@ -345,7 +345,7 @@
 - [ArchWizardLesbian/ArchRail](https://github.com/ArchWizardLesbian/ArchRail) - A Funny little mod for a Funny little jester game :3
 - [Mil0Meg4/Resurgence](https://github.com/Mil0Meg4/Resurgence) - The vampire is in another mod!
 - [icyethics/Glue-For-Modpacks](https://github.com/icyethics/Glue-For-Modpacks) - Balatro Mod to add utilities that may make playing with many mods more enjoyable
-- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - An Advanced Character Inspection Addon for World of Warcraft.
+- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - Advanced WoW character inspection addon with GearScore, talents, PvP, professions and player cache. Supports Retail, Forever and Classic.
 - [Snocean/ProEnchanters](https://github.com/Snocean/ProEnchanters) - Pro Enchanters for WoW Classic
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [PathOfBuildingCommunity/PathOfBuilding-PoE2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) - 
