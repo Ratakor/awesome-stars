@@ -141,6 +141,7 @@
 - [shell](#shell)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [swift](#swift)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
@@ -853,7 +854,7 @@
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - An Advanced Character Inspection Addon for World of Warcraft.
+- [eusi/Examiner-SuperInspect](https://github.com/eusi/Examiner-SuperInspect) - Advanced WoW character inspection addon with GearScore, talents, PvP, professions and player cache. Supports Retail, Forever and Classic.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [aartaka/pretty.c](https://github.com/aartaka/pretty.c) - Making C Look ✨Pretty✨and Lua/Lisp/Python-esque
@@ -1353,7 +1354,6 @@
 - [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy) - A data serialization language for expressing clear API messages, config files, etc.
 - [andrewrk/flag2struct](https://github.com/andrewrk/flag2struct) - simple CLI tool for converting zig source code using flags-style declarations to packed structs
 - [mon/0x40-web](https://github.com/mon/0x40-web) - Pretty images and colours
-- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
 - [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
 - [cayrac/slormancer-api](https://github.com/cayrac/slormancer-api) - A Slormancer api to parse saves
@@ -1661,6 +1661,10 @@
 ## sqlite 
 
 - [jeiel85/markleaf-android](https://github.com/jeiel85/markleaf-android) - A lightweight, local-first Markdown note app for Android.
+
+## static-site-generator 
+
+- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 
 ## swift 
 
