@@ -65,6 +65,7 @@
 
 ## C 
 
+- [hirrolot/metalang99](https://github.com/hirrolot/metalang99) - Full-blown preprocessor metaprogramming
 - [iluaii/fwm](https://github.com/iluaii/fwm) - A Wayland compositor you don't have to assemble: launcher, screenshots, mixer, visualiser, wallpapers and session restore built in, one TOML config, every setting live over IPC. Each desktop is tiling
 - [ItsLemmy/swash](https://github.com/ItsLemmy/swash) - Swash is a fast screenshot annotator and lightweight image editor for Linux.
 - [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
@@ -217,6 +218,7 @@
 
 ## Go 
 
+- [thedenisnikulin/cycle](https://github.com/thedenisnikulin/cycle) - 
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [kenn-io/kata](https://github.com/kenn-io/kata) - Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
@@ -266,7 +268,7 @@
 
 ## Java 
 
-- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 1Mb Android launcher
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [sammychien/Concurrent-SkipList](https://github.com/sammychien/Concurrent-SkipList) - 
 
@@ -608,6 +610,7 @@
 
 ## Rust 
 
+- [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
 - [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
 - [Cyberus-Linux/nixpkgs-inventory](https://github.com/Cyberus-Linux/nixpkgs-inventory) - Find the nixpkgs attributes in your NixOS or package closure!
