@@ -76,7 +76,7 @@
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
-- [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and general-purpose calculator
+- [jarun/bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [faetalize/waytator](https://github.com/faetalize/waytator) - Screenshots and video recording on wayland
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
