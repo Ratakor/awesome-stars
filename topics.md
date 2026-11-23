@@ -150,6 +150,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -1090,7 +1091,7 @@
 - [contyk/jj](https://github.com/contyk/jj) - Simple FIFO and filesystem based Jabber/XMPP client
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [external-mirrors/phoenix](https://github.com/external-mirrors/phoenix) - 
-- [Michael-C-Buckley/nixos-legacy](https://github.com/Michael-C-Buckley/nixos-legacy) - My primary NixOS system configurations
+- [Michael-C-Buckley/nixos](https://github.com/Michael-C-Buckley/nixos) - My primary NixOS system configurations
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -1758,6 +1759,10 @@
 
 - [hovinen/test-that](https://github.com/hovinen/test-that) - Test assertion library for Rust
 
+## text-to-speech 
+
+- [CapriChooms/CapriCore](https://github.com/CapriChooms/CapriCore) - Capri — an AI desktop companion for Windows with local/API models, Hugging Face, optional voice, memory and permission-based desktop tools.
+
 ## tui 
 
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
@@ -1891,6 +1896,7 @@
 
 ## windows 
 
+- [CapriChooms/CapriCore](https://github.com/CapriChooms/CapriCore) - Capri — an AI desktop companion for Windows with local/API models, Hugging Face, optional voice, memory and permission-based desktop tools.
 - [anmolkapil/plexo](https://github.com/anmolkapil/plexo) - Speed up downloads by combining multiple network connections in parallel
 - [Dhairya3391/kari](https://github.com/Dhairya3391/kari) - Kari just a tui for getting media from providers and playing it in your media player with nice to have features.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
