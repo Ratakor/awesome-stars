@@ -657,7 +657,7 @@
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [Amanieu/corosensei](https://github.com/Amanieu/corosensei) - A fast and safe implementation of stackful coroutines in Rust
 - [fprasx/cargo-unfmt](https://github.com/fprasx/cargo-unfmt) - unformat code into perfect blocks
-- [manic-systems/tack](https://github.com/manic-systems/tack) - flake-like toml nix pins, lazily fetched and transformed
+- [manic-systems/tack](https://github.com/manic-systems/tack) - a full-featured nix pinning system
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) - NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
 - [manic-systems/npr](https://github.com/manic-systems/npr) - A pull request tracker for Nixpkgs
