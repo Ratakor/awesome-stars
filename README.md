@@ -78,7 +78,7 @@
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
-- [faetalize/waytator](https://github.com/faetalize/waytator) - Screenshots and video recording on wayland
+- [faetalize/waytator](https://github.com/faetalize/waytator) - Fast screen capture and editing
 - [tslight/9x](https://github.com/tslight/9x) - NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN NEIN!
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
