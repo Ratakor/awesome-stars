@@ -1147,7 +1147,7 @@
 - [iynaix/dotfiles](https://github.com/iynaix/dotfiles) - I use NixOS btw.
 - [toastal/nixtamal](https://github.com/toastal/nixtamal) - NOT a mirror of Nixtamal but a signpost to the official source code. Visit the official site to get the Darcs repository.
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
-- [faetalize/waytator](https://github.com/faetalize/waytator) - Screenshots and video recording on wayland
+- [faetalize/waytator](https://github.com/faetalize/waytator) - Fast screen capture and editing
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
