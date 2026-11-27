@@ -32,7 +32,6 @@
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
-- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Odin](#odin)
 - [Others](#others)
@@ -330,6 +329,7 @@
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) - A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system.
 - [y9san9/y9san9.nvim](https://github.com/y9san9/y9san9.nvim) - Sub-100 LoC nvim config intended to be used only by me
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [jpe90/clp](https://github.com/jpe90/clp) - writes input files to stdout with syntax highlighting
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
@@ -472,10 +472,6 @@
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [NotAShelf/wallpkgs](https://github.com/NotAShelf/wallpkgs) - A repository of wallpapers to be installed via Nix.
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
-
-## Nushell 
-
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 
 ## OCaml 
 
