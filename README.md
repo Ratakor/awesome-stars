@@ -258,7 +258,7 @@
 - [ubugeeei-prod/tynix](https://github.com/ubugeeei-prod/tynix) - tynix (typed-nix) is gradual type system for nix
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
-- [SrGaabriel/soma](https://github.com/SrGaabriel/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
+- [gminat/soma](https://github.com/gminat/soma) - ⚗️ | Soma is a general-purpose dependently-typed functional programming language powered by Interaction Nets.
 - [sempruijs/json2nix](https://github.com/sempruijs/json2nix) - A json to nix converterwritten in Haskell
 
 ## Janet 
@@ -606,6 +606,7 @@
 
 ## Rust 
 
+- [Antiz96/oniri](https://github.com/Antiz96/oniri) - A tool that automatically maximizes the only window of a niri workspace (with optional tiling layout mode).
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
 - [mitos-editor/mitos](https://github.com/mitos-editor/mitos) - Mitos is a fast and minimal modal text editor.
